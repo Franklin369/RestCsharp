@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\RestCsharp.csproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\app.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\app.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\app.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\app.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\app.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\app.config" />
+  <event action="Analyze" type="Success" name="app.config" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\app.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\packages.config" />
+  <event action="Analyze" type="Success" name="EleccionServidor.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\AsistenteInstalacion\EleccionServidor.resx" />
+  <event action="Analyze" type="Success" name="Empresaregistro.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\AsistenteInstalacion\Empresaregistro.resx" />
+  <event action="Analyze" type="Success" name="InstalarServidor.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\AsistenteInstalacion\InstalarServidor.resx" />
+  <event action="Analyze" type="Success" name="UsuarioPrincipal.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\AsistenteInstalacion\UsuarioPrincipal.resx" />
+  <event action="Analyze" type="Success" name="AperturaCaja.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Caja\AperturaCaja.resx" />
+  <event action="Analyze" type="Success" name="CierreCaja.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Caja\CierreCaja.resx" />
+  <event action="Analyze" type="Success" name="Listagastosingresos.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Caja\Listagastosingresos.resx" />
+  <event action="Analyze" type="Success" name="PantallaCocina.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Cocina\PantallaCocina.resx" />
+  <event action="Analyze" type="Success" name="CONEXION_MANUAL.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\ConexionManual\CONEXION_MANUAL.resx" />
+  <event action="Analyze" type="Success" name="Asistenteconexion.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Conexionremota\Asistenteconexion.resx" />
+  <event action="Analyze" type="Success" name="Clientesconfig.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Configuraciones\Clientesconfig.resx" />
+  <event action="Analyze" type="Success" name="Menu_de_configuraciones.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Configuraciones\Menu_de_configuraciones.resx" />
+  <event action="Analyze" type="Success" name="GenerarAut.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Copiasbd\GenerarAut.resx" />
+  <event action="Analyze" type="Success" name="Diseño.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Diseñocomp\Diseño.resx" />
+  <event action="Analyze" type="Success" name="Eempresa.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Empresaconfig\Eempresa.resx" />
+  <event action="Analyze" type="Success" name="GenerarQr.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\GeneradorQR\GenerarQr.resx" />
+  <event action="Analyze" type="Success" name="ImpresorasConf.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Impresoras\ImpresorasConf.resx" />
+  <event action="Analyze" type="Success" name="Licencias.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Licencia\Licencias.resx" />
+  <event action="Analyze" type="Success" name="LoginForm.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Login\LoginForm.resx" />
+  <event action="Analyze" type="Success" name="Agregar_mesa_ok.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Mesas_salones\Agregar_mesa_ok.resx" />
+  <event action="Analyze" type="Success" name="Configurar_mesas_ok.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Mesas_salones\Configurar_mesas_ok.resx" />
+  <event action="Analyze" type="Success" name="Salones.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Mesas_salones\Salones.resx" />
+  <event action="Analyze" type="Success" name="Grupos_De_productos.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\PRODUCTOS\Grupos_De_productos.resx" />
+  <event action="Analyze" type="Success" name="Productos_rest.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\PRODUCTOS\Productos_rest.resx" />
+  <event action="Analyze" type="Success" name="Registro_de_productos.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\PRODUCTOS\Registro_de_productos.resx" />
+  <event action="Analyze" type="Success" name="Agregarcliente.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\PUNTO DE VENTA\Agregarcliente.resx" />
+  <event action="Analyze" type="Success" name="Buscadorproductos.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\PUNTO DE VENTA\Buscadorproductos.resx" />
+  <event action="Analyze" type="Success" name="CantPersonas.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\PUNTO DE VENTA\CantPersonas.resx" />
+  <event action="Analyze" type="Success" name="Cobrar.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\PUNTO DE VENTA\Cobrar.resx" />
+  <event action="Analyze" type="Success" name="MostradorProductos.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\PUNTO DE VENTA\MostradorProductos.resx" />
+  <event action="Analyze" type="Success" name="NombreLlevar.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\PUNTO DE VENTA\NombreLlevar.resx" />
+  <event action="Analyze" type="Success" name="Notas.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\PUNTO DE VENTA\Notas.resx" />
+  <event action="Analyze" type="Success" name="Punto_de_venta.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\PUNTO DE VENTA\Punto_de_venta.resx" />
+  <event action="Analyze" type="Success" name="Visor_de_mesas.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\PUNTO DE VENTA\Visor_de_mesas.resx" />
+  <event action="Analyze" type="Success" name="VisorDecuentas.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\PUNTO DE VENTA\VisorDecuentas.resx" />
+  <event action="Analyze" type="Success" name="Menureportes.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Reportes\Menureportes.resx" />
+  <event action="Analyze" type="Success" name="Pruebaimpresora.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Reportes\Pruebaimpresora.resx" />
+  <event action="Analyze" type="Success" name="Rcierrecaja.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Reportes\Rcierrecaja.resx" />
+  <event action="Analyze" type="Success" name="Rcodigosqr.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Reportes\Rcodigosqr.resx" />
+  <event action="Analyze" type="Success" name="RcomprobVenta.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Reportes\RcomprobVenta.resx" />
+  <event action="Analyze" type="Success" name="RpedidonotaInd.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Reportes\RpedidonotaInd.resx" />
+  <event action="Analyze" type="Success" name="Rpedidos.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Reportes\Rpedidos.resx" />
+  <event action="Analyze" type="Success" name="Rprecuenta.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Reportes\Rprecuenta.resx" />
+  <event action="Analyze" type="Success" name="Rproductosmasv.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Reportes\Rproductosmasv.resx" />
+  <event action="Analyze" type="Success" name="Rresumenventas.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Reportes\Rresumenventas.resx" />
+  <event action="Analyze" type="Success" name="SerialziacionComp.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Serializacion\SerialziacionComp.resx" />
+  <event action="Analyze" type="Success" name="UsuariosOk.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Presentacion\Usuarios\UsuariosOk.resx" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Properties\Resources.resx" />
+  <event action="Analyze" type="Success" name="Pruebassunat.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Sunat\Pruebassunat.resx" />
+  <event action="Analyze" type="Success" name="AgregarComBaja.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Sunat\SunatForms\AgregarComBaja.resx" />
+  <event action="Analyze" type="Success" name="AgregarNdebito.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Sunat\SunatForms\AgregarNdebito.resx" />
+  <event action="Analyze" type="Success" name="AgregarNotacredito.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Sunat\SunatForms\AgregarNotacredito.resx" />
+  <event action="Analyze" type="Success" name="ComBaja.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Sunat\SunatForms\ComBaja.resx" />
+  <event action="Analyze" type="Success" name="Sboletas.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Sunat\SunatForms\Sboletas.resx" />
+  <event action="Analyze" type="Success" name="Sfacturas.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Sunat\SunatForms\Sfacturas.resx" />
+  <event action="Analyze" type="Success" name="Smenusunat.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Sunat\SunatForms\Smenusunat.resx" />
+  <event action="Analyze" type="Success" name="Snotascredito.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Sunat\SunatForms\Snotascredito.resx" />
+  <event action="Analyze" type="Success" name="Snotasdebito.resx" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\Sunat\SunatForms\Snotasdebito.resx" />
+  <event action="Analyze" type="Success" name="RestCsharp" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\RestCsharp.csproj" />
+  <event action="Analyze" type="Success" name="RestCsharp" path="E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\RestCsharp.sln" />
+</log>

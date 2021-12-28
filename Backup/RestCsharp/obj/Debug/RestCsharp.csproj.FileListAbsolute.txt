@@ -1,0 +1,139 @@
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Properties.Resources.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.csproj.GenerateResource.cache
+E:\Proyectos en Csharp\RestCsharp\bin\Debug\UIDC.dll
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.csproj.CoreCompileInputs.cache
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.csproj.CopyComplete
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Usuarios.UsuariosOk.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Login.LoginForm.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Mesas_salones.Agregar_mesa_ok.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Mesas_salones.Configurar_mesas_ok.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.PUNTO_DE_VENTA.MostradorProductos.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.PUNTO_DE_VENTA.Punto_de_venta.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.PUNTO_DE_VENTA.Visor_de_mesas.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Configuraciones.Menu_de_configuraciones.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Mesas_salones.Salones.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.PRODUCTOS.Grupos_De_productos.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.PRODUCTOS.Productos_rest.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.PRODUCTOS.Registro_de_productos.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Caja.AperturaCaja.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.AsistenteInstalacion.UsuarioPrincipal.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.CONEXION_MANUAL.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.PUNTO_DE_VENTA.CantPersonas.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.PUNTO_DE_VENTA.VisorDecuentas.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Caja.CierreCaja.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.PUNTO_DE_VENTA.Notas.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Impresoras.ImpresorasConf.resources
+E:\Proyectos en Csharp\RestCsharp\bin\Debug\Telerik.Reporting.dll
+E:\Proyectos en Csharp\RestCsharp\bin\Debug\Telerik.ReportViewer.WinForms.dll
+E:\Proyectos en Csharp\RestCsharp\bin\Debug\Telerik.Reporting.pdb
+E:\Proyectos en Csharp\RestCsharp\bin\Debug\Telerik.Reporting.xml
+E:\Proyectos en Csharp\RestCsharp\bin\Debug\Telerik.ReportViewer.WinForms.pdb
+E:\Proyectos en Csharp\RestCsharp\bin\Debug\Telerik.ReportViewer.WinForms.xml
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Reportes.Pruebaimpresora.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Reportes.Rpedidos.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Reportes.RcomprobVenta.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.AsistenteInstalacion.Empresaregistro.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Reportes.Rprecuenta.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.PUNTO_DE_VENTA.NombreLlevar.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Diseñocomp.Diseño.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Cocina.PantallaCocina.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Serializacion.SerialziacionComp.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.PUNTO_DE_VENTA.Cobrar.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Caja.Listagastosingresos.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Copiasbd.GenerarAut.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.AsistenteInstalacion.EleccionServidor.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.AsistenteInstalacion.InstalarServidor.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Conexionremota.Asistenteconexion.resources
+E:\Proyectos en Csharp\RestCsharp\bin\Debug\Bumam.exe
+E:\Proyectos en Csharp\RestCsharp\bin\Debug\Bumam.pdb
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\Bumam.exe.licenses
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\Bumam.exe
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\Bumam.pdb
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Reportes.Menureportes.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Reportes.Rresumenventas.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Reportes.Rproductosmasv.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.GeneradorQR.GenerarQr.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Reportes.Rcodigosqr.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Empresaconfig.Eempresa.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Reportes.Rcierrecaja.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Reportes.RpedidonotaInd.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.PUNTO_DE_VENTA.Buscadorproductos.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Licencia.Licencias.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.csproj.AssemblyReference.cache
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.csproj.AssemblyReference.cache
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.AsistenteInstalacion.EleccionServidor.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.AsistenteInstalacion.Empresaregistro.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.AsistenteInstalacion.InstalarServidor.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.AsistenteInstalacion.UsuarioPrincipal.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Caja.AperturaCaja.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Caja.CierreCaja.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Caja.Listagastosingresos.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Cocina.PantallaCocina.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.CONEXION_MANUAL.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Conexionremota.Asistenteconexion.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Configuraciones.Menu_de_configuraciones.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Copiasbd.GenerarAut.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Diseñocomp.Diseño.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Empresaconfig.Eempresa.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.GeneradorQR.GenerarQr.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Impresoras.ImpresorasConf.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Licencia.Licencias.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Login.LoginForm.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Mesas_salones.Agregar_mesa_ok.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Mesas_salones.Configurar_mesas_ok.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Mesas_salones.Salones.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.PRODUCTOS.Grupos_De_productos.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.PRODUCTOS.Productos_rest.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.PRODUCTOS.Registro_de_productos.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.PUNTO_DE_VENTA.Buscadorproductos.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.PUNTO_DE_VENTA.CantPersonas.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.PUNTO_DE_VENTA.Cobrar.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.PUNTO_DE_VENTA.MostradorProductos.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.PUNTO_DE_VENTA.NombreLlevar.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.PUNTO_DE_VENTA.Notas.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.PUNTO_DE_VENTA.Punto_de_venta.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.PUNTO_DE_VENTA.VisorDecuentas.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.PUNTO_DE_VENTA.Visor_de_mesas.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Reportes.Menureportes.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Reportes.Pruebaimpresora.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Reportes.Rcierrecaja.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Reportes.Rcodigosqr.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Reportes.RcomprobVenta.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Reportes.RpedidonotaInd.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Reportes.Rpedidos.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Reportes.Rprecuenta.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Reportes.Rproductosmasv.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Reportes.Rresumenventas.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Serializacion.SerialziacionComp.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Usuarios.UsuariosOk.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Properties.Resources.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Sunat.Pruebassunat.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.csproj.GenerateResource.cache
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\Bumam.exe.licenses
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.csproj.CoreCompileInputs.cache
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\Bumam.exe
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\Bumam.pdb
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\bin\Debug\Bumam.exe.config
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\bin\Debug\Bumam.exe
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\bin\Debug\Bumam.pdb
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\bin\Debug\Ionic.Zip.dll
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\bin\Debug\Telerik.Reporting.dll
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\bin\Debug\Telerik.ReportViewer.WinForms.dll
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\bin\Debug\UIDC.dll
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\bin\Debug\Telerik.Reporting.pdb
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\bin\Debug\Telerik.Reporting.xml
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\bin\Debug\Telerik.ReportViewer.WinForms.pdb
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\bin\Debug\Telerik.ReportViewer.WinForms.xml
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.csproj.CopyComplete
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Ventas.Agregarcliente.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.SunatForms.AgregarComBaja.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\Ada369Csharp.Presentacion.SunatForms.AgregarNdebito.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\Ada369Csharp.Presentacion.SunatForms.AgregarNotacredito.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\Ada369Csharp.Presentacion.SunatForms.ComBaja.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\Ada369Csharp.Presentacion.SunatForms.Sboletas.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\Ada369Csharp.Presentacion.SunatForms.Sfacturas.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Sunat.SunatForms.Smenusunat.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\Ada369Csharp.Presentacion.SunatForms.Snotascredito.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\Ada369Csharp.Presentacion.SunatForms.Snotasdebito.resources
+E:\Proyectos en Csharp\RestFact\Bumam 2_0\RestCsharp\obj\Debug\RestCsharp.Presentacion.Configuraciones.Clientesconfig.resources

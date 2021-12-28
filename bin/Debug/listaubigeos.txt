@@ -1,0 +1,1874 @@
+Amazonas;Bagua;Aramango;010202
+Amazonas;Bagua;Bagua;010201
+Amazonas;Bagua;Copallin;010203
+Amazonas;Bagua;El Parco;010204
+Amazonas;Bagua;Imaza;010205
+Amazonas;Bagua;La Peca;010206
+Amazonas;Bongara;Chisquilla;010302
+Amazonas;Bongara;Churuja;010303
+Amazonas;Bongara;Corosha;010304
+Amazonas;Bongara;Cuispes;010305
+Amazonas;Bongara;Florida;010306
+Amazonas;Bongara;Jazan;010307
+Amazonas;Bongara;Jumbilla;010301
+Amazonas;Bongara;Recta;010308
+Amazonas;Bongara;San Carlos;010309
+Amazonas;Bongara;Shipasbamba;010310
+Amazonas;Bongara;Valera;010311
+Amazonas;Bongara;Yambrasbamba;010312
+Amazonas;Chachapoyas;Asuncion;010102
+Amazonas;Chachapoyas;Balsas;010103
+Amazonas;Chachapoyas;Chachapoyas;010101
+Amazonas;Chachapoyas;Cheto;010104
+Amazonas;Chachapoyas;Chiliquin;010105
+Amazonas;Chachapoyas;Chuquibamba;010106
+Amazonas;Chachapoyas;Granada;010107
+Amazonas;Chachapoyas;Huancas;010108
+Amazonas;Chachapoyas;La Jalca;010109
+Amazonas;Chachapoyas;Leimebamba;010110
+Amazonas;Chachapoyas;Levanto;010111
+Amazonas;Chachapoyas;Magdalena;010112
+Amazonas;Chachapoyas;Mariscal Castilla;010113
+Amazonas;Chachapoyas;Molinopampa;010114
+Amazonas;Chachapoyas;Montevideo;010115
+Amazonas;Chachapoyas;Olleros;010116
+Amazonas;Chachapoyas;Quinjalca;010117
+Amazonas;Chachapoyas;San Francisco de Daguas;010118
+Amazonas;Chachapoyas;San Isidro de Maino;010119
+Amazonas;Chachapoyas;Soloco;010120
+Amazonas;Chachapoyas;Sonche;010121
+Amazonas;Condorcanqui;El Cenepa;010402
+Amazonas;Condorcanqui;Nieva;010401
+Amazonas;Condorcanqui;Rio Santiago;010403
+Amazonas;Luya;Camporredondo;010502
+Amazonas;Luya;Cocabamba;010503
+Amazonas;Luya;Colcamar;010504
+Amazonas;Luya;Conila;010505
+Amazonas;Luya;Inguilpata;010506
+Amazonas;Luya;Lamud;010501
+Amazonas;Luya;Longuita;010507
+Amazonas;Luya;Lonya Chico;010508
+Amazonas;Luya;Luya;010509
+Amazonas;Luya;Luya Viejo;010510
+Amazonas;Luya;Maria;010511
+Amazonas;Luya;Ocalli;010512
+Amazonas;Luya;Ocumal;010513
+Amazonas;Luya;Pisuquia;010514
+Amazonas;Luya;Providencia;010515
+Amazonas;Luya;San Cristobal;010516
+Amazonas;Luya;San Francisco del Yeso;010517
+Amazonas;Luya;San Jeronimo;010518
+Amazonas;Luya;San Juan de Lopecancha;010519
+Amazonas;Luya;Santa Catalina;010520
+Amazonas;Luya;Santo Tomas;010521
+Amazonas;Luya;Tingo;010522
+Amazonas;Luya;Trita;010523
+Amazonas;Rodriguez de Mendoza;Chirimoto;010602
+Amazonas;Rodriguez de Mendoza;Cochamal;010603
+Amazonas;Rodriguez de Mendoza;Huambo;010604
+Amazonas;Rodriguez de Mendoza;Limabamba;010605
+Amazonas;Rodriguez de Mendoza;Longar;010606
+Amazonas;Rodriguez de Mendoza;Mariscal Benavides;010607
+Amazonas;Rodriguez de Mendoza;Milpuc;010608
+Amazonas;Rodriguez de Mendoza;Omia;010609
+Amazonas;Rodriguez de Mendoza;San Nicolas;010601
+Amazonas;Rodriguez de Mendoza;Santa Rosa;010610
+Amazonas;Rodriguez de Mendoza;Totora;010611
+Amazonas;Rodriguez de Mendoza;Vista Alegre;010612
+Amazonas;Utcubamba;Bagua Grande;010701
+Amazonas;Utcubamba;Cajaruro;010702
+Amazonas;Utcubamba;Cumba;010703
+Amazonas;Utcubamba;El Milagro;010704
+Amazonas;Utcubamba;Jamalca;010705
+Amazonas;Utcubamba;Lonya Grande;010706
+Amazonas;Utcubamba;Yamon;010707
+Ancash;Aija;Aija;020201
+Ancash;Aija;Coris;020202
+Ancash;Aija;Huacllan;020203
+Ancash;Aija;La Merced;020204
+Ancash;Aija;Succha;020205
+Ancash;Antonio Raymondi;Aczo;020302
+Ancash;Antonio Raymondi;Chaccho;020303
+Ancash;Antonio Raymondi;Chingas;020304
+Ancash;Antonio Raymondi;Llamellin;020301
+Ancash;Antonio Raymondi;Mirgas;020305
+Ancash;Antonio Raymondi;San Juan de Rontoy;020306
+Ancash;Asuncion;Acochaca;020402
+Ancash;Asuncion;Chacas;020401
+Ancash;Bolognesi;Abelardo Pardo Lezameta;020502
+Ancash;Bolognesi;Antonio Raymondi;020503
+Ancash;Bolognesi;Aquia;020504
+Ancash;Bolognesi;Cajacay;020505
+Ancash;Bolognesi;Canis;020506
+Ancash;Bolognesi;Chiquian;020501
+Ancash;Bolognesi;Colquioc;020507
+Ancash;Bolognesi;Huallanca;020508
+Ancash;Bolognesi;Huasta;020509
+Ancash;Bolognesi;Huayllacayan;020510
+Ancash;Bolognesi;La Primavera;020511
+Ancash;Bolognesi;Mangas;020512
+Ancash;Bolognesi;Pacllon;020513
+Ancash;Bolognesi;San Miguel de Corpanqui;020514
+Ancash;Bolognesi;Ticllos;020515
+Ancash;Carhuaz;Acopampa;020602
+Ancash;Carhuaz;Amashca;020603
+Ancash;Carhuaz;Anta;020604
+Ancash;Carhuaz;Ataquero;020605
+Ancash;Carhuaz;Carhuaz;020601
+Ancash;Carhuaz;Marcara;020606
+Ancash;Carhuaz;Pariahuanca;020607
+Ancash;Carhuaz;San Miguel de Aco;020608
+Ancash;Carhuaz;Shilla;020609
+Ancash;Carhuaz;Tinco;020610
+Ancash;Carhuaz;Yungar;020611
+Ancash;Carlos Fermin Fitzca;San Luis;020701
+Ancash;Carlos Fermin Fitzca;San Nicolas;020702
+Ancash;Carlos Fermin Fitzca;Yauya;020703
+Ancash;Casma;Buena Vista Alta;020802
+Ancash;Casma;Casma;020801
+Ancash;Casma;Comandante Noel;020803
+Ancash;Casma;Yautan;020804
+Ancash;Corongo;Aco;020902
+Ancash;Corongo;Bambas;020903
+Ancash;Corongo;Corongo;020901
+Ancash;Corongo;Cusca;020904
+Ancash;Corongo;La Pampa;020905
+Ancash;Corongo;Yanac;020906
+Ancash;Corongo;Yupan;020907
+Ancash;Huaraz;Cochabamba;020102
+Ancash;Huaraz;Colcabamba;020103
+Ancash;Huaraz;Huanchay;020104
+Ancash;Huaraz;Huaraz;020101
+Ancash;Huaraz;Independencia;020105
+Ancash;Huaraz;Jangas;020106
+Ancash;Huaraz;La Libertad;020107
+Ancash;Huaraz;Olleros;020108
+Ancash;Huaraz;Pampas;020109
+Ancash;Huaraz;Pariacoto;020110
+Ancash;Huaraz;Pira;020111
+Ancash;Huaraz;Tarica;020112
+Ancash;Huari;Anra;021002
+Ancash;Huari;Cajay;021003
+Ancash;Huari;Chavin de Huantar;021004
+Ancash;Huari;Huacachi;021005
+Ancash;Huari;Huacchis;021006
+Ancash;Huari;Huachis;021007
+Ancash;Huari;Huantar;021008
+Ancash;Huari;Huari;021001
+Ancash;Huari;Masin;021009
+Ancash;Huari;Paucas;021010
+Ancash;Huari;Ponto;021011
+Ancash;Huari;Rahuapampa;021012
+Ancash;Huari;Rapayan;021013
+Ancash;Huari;San Marcos;021014
+Ancash;Huari;San Pedro de Chana;021015
+Ancash;Huari;Uco;021016
+Ancash;Huarmey;Cochapeti;021102
+Ancash;Huarmey;Culebras;021103
+Ancash;Huarmey;Huarmey;021101
+Ancash;Huarmey;Huayan;021104
+Ancash;Huarmey;Malvas;021105
+Ancash;Huaylas;Caraz;021201
+Ancash;Huaylas;Huallanca;021202
+Ancash;Huaylas;Huata;021203
+Ancash;Huaylas;Huaylas;021204
+Ancash;Huaylas;Mato;021205
+Ancash;Huaylas;Pamparomas;021206
+Ancash;Huaylas;Pueblo Libre;021207
+Ancash;Huaylas;Santa Cruz;021208
+Ancash;Huaylas;Santo Toribio;021209
+Ancash;Huaylas;Yuracmarca;021210
+Ancash;Mariscal Luzuriaga;Casca;021302
+Ancash;Mariscal Luzuriaga;Eleazar Guzman Barron;021303
+Ancash;Mariscal Luzuriaga;Fidel Olivas Escudero;021304
+Ancash;Mariscal Luzuriaga;Llama;021305
+Ancash;Mariscal Luzuriaga;Llumpa;021306
+Ancash;Mariscal Luzuriaga;Lucma;021307
+Ancash;Mariscal Luzuriaga;Musga;021308
+Ancash;Mariscal Luzuriaga;Piscobamba;021301
+Ancash;Ocros;Acas;021402
+Ancash;Ocros;Cajamarquilla;021403
+Ancash;Ocros;Carhuapampa;021404
+Ancash;Ocros;Cochas;021405
+Ancash;Ocros;Congas;021406
+Ancash;Ocros;Llipa;021407
+Ancash;Ocros;Ocros;021401
+Ancash;Ocros;San Cristobal de Rajan;021408
+Ancash;Ocros;San Pedro;021409
+Ancash;Ocros;Santiago de Chilcas;021410
+Ancash;Pallasca;Bolognesi;021502
+Ancash;Pallasca;Cabana;021501
+Ancash;Pallasca;Conchucos;021503
+Ancash;Pallasca;Huacaschuque;021504
+Ancash;Pallasca;Huandoval;021505
+Ancash;Pallasca;Lacabamba;021506
+Ancash;Pallasca;Llapo;021507
+Ancash;Pallasca;Pallasca;021508
+Ancash;Pallasca;Pampas;021509
+Ancash;Pallasca;Santa Rosa;021510
+Ancash;Pallasca;Tauca;021511
+Ancash;Pomabamba;Huayllan;021602
+Ancash;Pomabamba;Parobamba;021603
+Ancash;Pomabamba;Pomabamba;021601
+Ancash;Pomabamba;Quinuabamba;021604
+Ancash;Recuay;Catac;021702
+Ancash;Recuay;Cotaparaco;021703
+Ancash;Recuay;Huayllapampa;021704
+Ancash;Recuay;Llacllin;021705
+Ancash;Recuay;Marca;021706
+Ancash;Recuay;Pampas Chico;021707
+Ancash;Recuay;Pararin;021708
+Ancash;Recuay;Recuay;021701
+Ancash;Recuay;Tapacocha;021709
+Ancash;Recuay;Ticapampa;021710
+Ancash;Santa;Caceres del Peru;021802
+Ancash;Santa;Chimbote;021801
+Ancash;Santa;Coishco;021803
+Ancash;Santa;Macate;021804
+Ancash;Santa;Moro;021805
+Ancash;Santa;Nepeña;021806
+Ancash;Santa;Nuevo Chimbote;021809
+Ancash;Santa;Samanco;021807
+Ancash;Santa;Santa;021808
+Ancash;Sihuas;Acobamba;021902
+Ancash;Sihuas;Alfonso Ugarte;021903
+Ancash;Sihuas;Cashapampa;021904
+Ancash;Sihuas;Chingalpo;021905
+Ancash;Sihuas;Huayllabamba;021906
+Ancash;Sihuas;Quiches;021907
+Ancash;Sihuas;Ragash;021908
+Ancash;Sihuas;San Juan;021909
+Ancash;Sihuas;Sicsibamba;021910
+Ancash;Sihuas;Sihuas;021901
+Ancash;Yungay;Cascapara;022002
+Ancash;Yungay;Mancos;022003
+Ancash;Yungay;Matacoto;022004
+Ancash;Yungay;Quillo;022005
+Ancash;Yungay;Ranrahirca;022006
+Ancash;Yungay;Shupluy;022007
+Ancash;Yungay;Yanama;022008
+Ancash;Yungay;Yungay;022001
+Apurimac;Abancay;Abancay;030101
+Apurimac;Abancay;Chacoche;030102
+Apurimac;Abancay;Circa;030103
+Apurimac;Abancay;Curahuasi;030104
+Apurimac;Abancay;Huanipaca;030105
+Apurimac;Abancay;Lambrama;030106
+Apurimac;Abancay;Pichirhua;030107
+Apurimac;Abancay;San Pedro de Cachora;030108
+Apurimac;Abancay;Tamburco;030109
+Apurimac;Andahuaylas;Andahuaylas;030201
+Apurimac;Andahuaylas;Andarapa;030202
+Apurimac;Andahuaylas;Chiara;030203
+Apurimac;Andahuaylas;Huancarama;030204
+Apurimac;Andahuaylas;Huancaray;030205
+Apurimac;Andahuaylas;Huayana;030206
+Apurimac;Andahuaylas;José María Arguedas;030220
+Apurimac;Andahuaylas;Kaquiabamba;030219
+Apurimac;Andahuaylas;Kishuara;030207
+Apurimac;Andahuaylas;Pacobamba;030208
+Apurimac;Andahuaylas;Pacucha;030209
+Apurimac;Andahuaylas;Pampachiri;030210
+Apurimac;Andahuaylas;Pomacocha;030211
+Apurimac;Andahuaylas;San Antonio de Cachi;030212
+Apurimac;Andahuaylas;San Jeronimo;030213
+Apurimac;Andahuaylas;San Miguel de Chaccrampa;030214
+Apurimac;Andahuaylas;Santa Maria de Chicmo;030215
+Apurimac;Andahuaylas;Talavera;030216
+Apurimac;Andahuaylas;Tumay Huaraca;030217
+Apurimac;Andahuaylas;Turpo;030218
+Apurimac;Antabamba;Antabamba;030301
+Apurimac;Antabamba;El Oro;030302
+Apurimac;Antabamba;Huaquirca;030303
+Apurimac;Antabamba;Juan Espinoza Medrano;030304
+Apurimac;Antabamba;Oropesa;030305
+Apurimac;Antabamba;Pachaconas;030306
+Apurimac;Antabamba;Sabaino;030307
+Apurimac;Aymaraes;Capaya;030402
+Apurimac;Aymaraes;Caraybamba;030403
+Apurimac;Aymaraes;Chalhuanca;030401
+Apurimac;Aymaraes;Chapimarca;030404
+Apurimac;Aymaraes;Colcabamba;030405
+Apurimac;Aymaraes;Cotaruse;030406
+Apurimac;Aymaraes;Huayllo;030407
+Apurimac;Aymaraes;Justo Apu Sahuaraura;030408
+Apurimac;Aymaraes;Lucre;030409
+Apurimac;Aymaraes;Pocohuanca;030410
+Apurimac;Aymaraes;San Juan de Chacña;030411
+Apurimac;Aymaraes;Sañayca;030412
+Apurimac;Aymaraes;Soraya;030413
+Apurimac;Aymaraes;Tapairihua;030414
+Apurimac;Aymaraes;Tintay;030415
+Apurimac;Aymaraes;Toraya;030416
+Apurimac;Aymaraes;Yanaca;030417
+Apurimac;Chincheros;Anco_Huallo;030602
+Apurimac;Chincheros;Chincheros;030601
+Apurimac;Chincheros;Cocharcas;030603
+Apurimac;Chincheros;El Porvenir;030610
+Apurimac;Chincheros;Huaccana;030604
+Apurimac;Chincheros;Los Chankas;030611
+Apurimac;Chincheros;Ocobamba;030605
+Apurimac;Chincheros;Ongoy;030606
+Apurimac;Chincheros;Ranracancha;030608
+Apurimac;Chincheros;Rocchacc;030609
+Apurimac;Chincheros;Uranmarca;030607
+Apurimac;Cotabambas;Challhuahuacho;030506
+Apurimac;Cotabambas;Cotabambas;030502
+Apurimac;Cotabambas;Coyllurqui;030503
+Apurimac;Cotabambas;Haquira;030504
+Apurimac;Cotabambas;Mara;030505
+Apurimac;Cotabambas;Tambobamba;030501
+Apurimac;Grau;Chuquibambilla;030701
+Apurimac;Grau;Curasco;030714
+Apurimac;Grau;Curpahuasi;030702
+Apurimac;Grau;Gamarra;030703
+Apurimac;Grau;Huayllati;030704
+Apurimac;Grau;Mamara;030705
+Apurimac;Grau;Micaela Bastidas;030706
+Apurimac;Grau;Pataypampa;030707
+Apurimac;Grau;Progreso;030708
+Apurimac;Grau;San Antonio;030709
+Apurimac;Grau;Santa Rosa;030710
+Apurimac;Grau;Turpay;030711
+Apurimac;Grau;Vilcabamba;030712
+Apurimac;Grau;Virundo;030713
+Arequipa;Arequipa;Alto Selva Alegre;040102
+Arequipa;Arequipa;Arequipa;040101
+Arequipa;Arequipa;Cayma;040103
+Arequipa;Arequipa;Cerro Colorado;040104
+Arequipa;Arequipa;Characato;040105
+Arequipa;Arequipa;Chiguata;040106
+Arequipa;Arequipa;Jacobo Hunter;040107
+Arequipa;Arequipa;Jose Luis Bustamante y Rivero;040129
+Arequipa;Arequipa;La Joya;040108
+Arequipa;Arequipa;Mariano Melgar;040109
+Arequipa;Arequipa;Miraflores;040110
+Arequipa;Arequipa;Mollebaya;040111
+Arequipa;Arequipa;Paucarpata;040112
+Arequipa;Arequipa;Pocsi;040113
+Arequipa;Arequipa;Polobaya;040114
+Arequipa;Arequipa;Quequeña;040115
+Arequipa;Arequipa;Sabandia;040116
+Arequipa;Arequipa;Sachaca;040117
+Arequipa;Arequipa;San Juan de Siguas;040118
+Arequipa;Arequipa;San Juan de Tarucani;040119
+Arequipa;Arequipa;Santa Isabel de Siguas;040120
+Arequipa;Arequipa;Santa Rita de Siguas;040121
+Arequipa;Arequipa;Socabaya;040122
+Arequipa;Arequipa;Tiabaya;040123
+Arequipa;Arequipa;Uchumayo;040124
+Arequipa;Arequipa;Vitor;040125
+Arequipa;Arequipa;Yanahuara;040126
+Arequipa;Arequipa;Yarabamba;040127
+Arequipa;Arequipa;Yura;040128
+Arequipa;Camana;Camana;040201
+Arequipa;Camana;Jose Maria Quimper;040202
+Arequipa;Camana;Mariano Nicolas Valcarcel;040203
+Arequipa;Camana;Mariscal Caceres;040204
+Arequipa;Camana;Nicolas de Pierola;040205
+Arequipa;Camana;Ocoña;040206
+Arequipa;Camana;Quilca;040207
+Arequipa;Camana;Samuel Pastor;040208
+Arequipa;Caraveli;Acari;040302
+Arequipa;Caraveli;Atico;040303
+Arequipa;Caraveli;Atiquipa;040304
+Arequipa;Caraveli;Bella Union;040305
+Arequipa;Caraveli;Cahuacho;040306
+Arequipa;Caraveli;Caraveli;040301
+Arequipa;Caraveli;Chala;040307
+Arequipa;Caraveli;Chaparra;040308
+Arequipa;Caraveli;Huanuhuanu;040309
+Arequipa;Caraveli;Jaqui;040310
+Arequipa;Caraveli;Lomas;040311
+Arequipa;Caraveli;Quicacha;040312
+Arequipa;Caraveli;Yauca;040313
+Arequipa;Castilla;Andagua;040402
+Arequipa;Castilla;Aplao;040401
+Arequipa;Castilla;Ayo;040403
+Arequipa;Castilla;Chachas;040404
+Arequipa;Castilla;Chilcaymarca;040405
+Arequipa;Castilla;Choco;040406
+Arequipa;Castilla;Huancarqui;040407
+Arequipa;Castilla;Machaguay;040408
+Arequipa;Castilla;Orcopampa;040409
+Arequipa;Castilla;Pampacolca;040410
+Arequipa;Castilla;Tipan;040411
+Arequipa;Castilla;Uñon;040412
+Arequipa;Castilla;Uraca;040413
+Arequipa;Castilla;Viraco;040414
+Arequipa;Caylloma;Achoma;040502
+Arequipa;Caylloma;Cabanaconde;040503
+Arequipa;Caylloma;Callalli;040504
+Arequipa;Caylloma;Caylloma;040505
+Arequipa;Caylloma;Chivay;040501
+Arequipa;Caylloma;Coporaque;040506
+Arequipa;Caylloma;Huambo;040507
+Arequipa;Caylloma;Huanca;040508
+Arequipa;Caylloma;Ichupampa;040509
+Arequipa;Caylloma;Lari;040510
+Arequipa;Caylloma;Lluta;040511
+Arequipa;Caylloma;Maca;040512
+Arequipa;Caylloma;Madrigal;040513
+Arequipa;Caylloma;Majes;040520
+Arequipa;Caylloma;San Antonio de Chuca;040514
+Arequipa;Caylloma;Sibayo;040515
+Arequipa;Caylloma;Tapay;040516
+Arequipa;Caylloma;Tisco;040517
+Arequipa;Caylloma;Tuti;040518
+Arequipa;Caylloma;Yanque;040519
+Arequipa;Condesuyos;Andaray;040602
+Arequipa;Condesuyos;Cayarani;040603
+Arequipa;Condesuyos;Chichas;040604
+Arequipa;Condesuyos;Chuquibamba;040601
+Arequipa;Condesuyos;Iray;040605
+Arequipa;Condesuyos;Rio Grande;040606
+Arequipa;Condesuyos;Salamanca;040607
+Arequipa;Condesuyos;Yanaquihua;040608
+Arequipa;Islay;Cocachacra;040702
+Arequipa;Islay;Dean Valdivia;040703
+Arequipa;Islay;Islay;040704
+Arequipa;Islay;Mejia;040705
+Arequipa;Islay;Mollendo;040701
+Arequipa;Islay;Punta de Bombon;040706
+Arequipa;La Union;Alca;040802
+Arequipa;La Union;Charcana;040803
+Arequipa;La Union;Cotahuasi;040801
+Arequipa;La Union;Huaynacotas;040804
+Arequipa;La Union;Pampamarca;040805
+Arequipa;La Union;Puyca;040806
+Arequipa;La Union;Quechualla;040807
+Arequipa;La Union;Sayla;040808
+Arequipa;La Union;Tauria;040809
+Arequipa;La Union;Tomepampa;040810
+Arequipa;La Union;Toro;040811
+Ayacucho;Cangallo;Cangallo;050201
+Ayacucho;Cangallo;Chuschi;050202
+Ayacucho;Cangallo;Los Morochucos;050203
+Ayacucho;Cangallo;Maria Parado de Bellido;050204
+Ayacucho;Cangallo;Paras;050205
+Ayacucho;Cangallo;Totos;050206
+Ayacucho;Huamanga;Acocro;050102
+Ayacucho;Huamanga;Acos Vinchos;050103
+Ayacucho;Huamanga;Andrés Avelino Cáceres Dorregaray;050116
+Ayacucho;Huamanga;Ayacucho;050101
+Ayacucho;Huamanga;Carmen Alto;050104
+Ayacucho;Huamanga;Chiara;050105
+Ayacucho;Huamanga;Jesus Nazareno;050115
+Ayacucho;Huamanga;Ocros;050106
+Ayacucho;Huamanga;Pacaycasa;050107
+Ayacucho;Huamanga;Quinua;050108
+Ayacucho;Huamanga;San Jose de Ticllas;050109
+Ayacucho;Huamanga;San Juan Bautista;050110
+Ayacucho;Huamanga;Santiago de Pischa;050111
+Ayacucho;Huamanga;Socos;050112
+Ayacucho;Huamanga;Tambillo;050113
+Ayacucho;Huamanga;Vinchos;050114
+Ayacucho;Huanca Sancos;Carapo;050302
+Ayacucho;Huanca Sancos;Sacsamarca;050303
+Ayacucho;Huanca Sancos;Sancos;050301
+Ayacucho;Huanca Sancos;Santiago de Lucanamarca;050304
+Ayacucho;Huanta;Ayahuanco;050402
+Ayacucho;Huanta;Canayre;050409
+Ayacucho;Huanta;Chaca;050412
+Ayacucho;Huanta;Huamanguilla;050403
+Ayacucho;Huanta;Huanta;050401
+Ayacucho;Huanta;Iguain;050404
+Ayacucho;Huanta;Llochegua;050408
+Ayacucho;Huanta;Luricocha;050405
+Ayacucho;Huanta;Pucacolpa;050411
+Ayacucho;Huanta;Santillana;050406
+Ayacucho;Huanta;Sivia;050407
+Ayacucho;Huanta;Uchuraccay;050410
+Ayacucho;La Mar;Anchihuay;050510
+Ayacucho;La Mar;Anco;050502
+Ayacucho;La Mar;Ayna;050503
+Ayacucho;La Mar;Chilcas;050504
+Ayacucho;La Mar;Chungui;050505
+Ayacucho;La Mar;Luis Carranza;050506
+Ayacucho;La Mar;Oronccoy;050511
+Ayacucho;La Mar;Samugari;050509
+Ayacucho;La Mar;San Miguel;050501
+Ayacucho;La Mar;Santa Rosa;050507
+Ayacucho;La Mar;Tambo;050508
+Ayacucho;Lucanas;Aucara;050602
+Ayacucho;Lucanas;Cabana;050603
+Ayacucho;Lucanas;Carmen Salcedo;050604
+Ayacucho;Lucanas;Chaviña;050605
+Ayacucho;Lucanas;Chipao;050606
+Ayacucho;Lucanas;Huac-Huas;050607
+Ayacucho;Lucanas;Laramate;050608
+Ayacucho;Lucanas;Leoncio Prado;050609
+Ayacucho;Lucanas;Llauta;050610
+Ayacucho;Lucanas;Lucanas;050611
+Ayacucho;Lucanas;Ocaña;050612
+Ayacucho;Lucanas;Otoca;050613
+Ayacucho;Lucanas;Puquio;050601
+Ayacucho;Lucanas;Saisa;050614
+Ayacucho;Lucanas;San Cristobal;050615
+Ayacucho;Lucanas;San Juan;050616
+Ayacucho;Lucanas;San Pedro;050617
+Ayacucho;Lucanas;San Pedro de Palco;050618
+Ayacucho;Lucanas;Sancos;050619
+Ayacucho;Lucanas;Santa Ana de Huaycahuacho;050620
+Ayacucho;Lucanas;Santa Lucia;050621
+Ayacucho;Parinacochas;Chumpi;050702
+Ayacucho;Parinacochas;Coracora;050701
+Ayacucho;Parinacochas;Coronel Castañeda;050703
+Ayacucho;Parinacochas;Pacapausa;050704
+Ayacucho;Parinacochas;Pullo;050705
+Ayacucho;Parinacochas;Puyusca;050706
+Ayacucho;Parinacochas;San Francisco de Ravacayco;050707
+Ayacucho;Parinacochas;Upahuacho;050708
+Ayacucho;Paucar del Sara Sara;Colta;050802
+Ayacucho;Paucar del Sara Sara;Corculla;050803
+Ayacucho;Paucar del Sara Sara;Lampa;050804
+Ayacucho;Paucar del Sara Sara;Marcabamba;050805
+Ayacucho;Paucar del Sara Sara;Oyolo;050806
+Ayacucho;Paucar del Sara Sara;Pararca;050807
+Ayacucho;Paucar del Sara Sara;Pausa;050801
+Ayacucho;Paucar del Sara Sara;San Javier de Alpabamba;050808
+Ayacucho;Paucar del Sara Sara;San Jose de Ushua;050809
+Ayacucho;Paucar del Sara Sara;Sara Sara;050810
+Ayacucho;Sucre;Belen;050902
+Ayacucho;Sucre;Chalcos;050903
+Ayacucho;Sucre;Chilcayoc;050904
+Ayacucho;Sucre;Huacaña;050905
+Ayacucho;Sucre;Morcolla;050906
+Ayacucho;Sucre;Paico;050907
+Ayacucho;Sucre;Querobamba;050901
+Ayacucho;Sucre;San Pedro de Larcay;050908
+Ayacucho;Sucre;San Salvador de Quije;050909
+Ayacucho;Sucre;Santiago de Paucaray;050910
+Ayacucho;Sucre;Soras;050911
+Ayacucho;Victor Fajardo;Alcamenca;051002
+Ayacucho;Victor Fajardo;Apongo;051003
+Ayacucho;Victor Fajardo;Asquipata;051004
+Ayacucho;Victor Fajardo;Canaria;051005
+Ayacucho;Victor Fajardo;Cayara;051006
+Ayacucho;Victor Fajardo;Colca;051007
+Ayacucho;Victor Fajardo;Huamanquiquia;051008
+Ayacucho;Victor Fajardo;Huancapi;051001
+Ayacucho;Victor Fajardo;Huancaraylla;051009
+Ayacucho;Victor Fajardo;Huaya;051010
+Ayacucho;Victor Fajardo;Sarhua;051011
+Ayacucho;Victor Fajardo;Vilcanchos;051012
+Ayacucho;Vilcas Huaman;Accomarca;051102
+Ayacucho;Vilcas Huaman;Carhuanca;051103
+Ayacucho;Vilcas Huaman;Concepcion;051104
+Ayacucho;Vilcas Huaman;Huambalpa;051105
+Ayacucho;Vilcas Huaman;Independencia;051106
+Ayacucho;Vilcas Huaman;Saurama;051107
+Ayacucho;Vilcas Huaman;Vilcas Huaman;051101
+Ayacucho;Vilcas Huaman;Vischongo;051108
+Cajamarca;Cajabamba;Cachachi;060202
+Cajamarca;Cajabamba;Cajabamba;060201
+Cajamarca;Cajabamba;Condebamba;060203
+Cajamarca;Cajabamba;Sitacocha;060204
+Cajamarca;Cajamarca;Asuncion;060102
+Cajamarca;Cajamarca;Cajamarca;060101
+Cajamarca;Cajamarca;Chetilla;060103
+Cajamarca;Cajamarca;Cospan;060104
+Cajamarca;Cajamarca;Encañada;060105
+Cajamarca;Cajamarca;Jesus;060106
+Cajamarca;Cajamarca;Llacanora;060107
+Cajamarca;Cajamarca;Los Baños del Inca;060108
+Cajamarca;Cajamarca;Magdalena;060109
+Cajamarca;Cajamarca;Matara;060110
+Cajamarca;Cajamarca;Namora;060111
+Cajamarca;Cajamarca;San Juan;060112
+Cajamarca;Celendin;Celendin;060301
+Cajamarca;Celendin;Chumuch;060302
+Cajamarca;Celendin;Cortegana;060303
+Cajamarca;Celendin;Huasmin;060304
+Cajamarca;Celendin;Jorge Chavez;060305
+Cajamarca;Celendin;Jose Galvez;060306
+Cajamarca;Celendin;La Libertad de Pallan;060312
+Cajamarca;Celendin;Miguel Iglesias;060307
+Cajamarca;Celendin;Oxamarca;060308
+Cajamarca;Celendin;Sorochuco;060309
+Cajamarca;Celendin;Sucre;060310
+Cajamarca;Celendin;Utco;060311
+Cajamarca;Chota;Anguia;060402
+Cajamarca;Chota;Chadin;060403
+Cajamarca;Chota;Chalamarca;060419
+Cajamarca;Chota;Chiguirip;060404
+Cajamarca;Chota;Chimban;060405
+Cajamarca;Chota;Choropampa;060406
+Cajamarca;Chota;Chota;060401
+Cajamarca;Chota;Cochabamba;060407
+Cajamarca;Chota;Conchan;060408
+Cajamarca;Chota;Huambos;060409
+Cajamarca;Chota;Lajas;060410
+Cajamarca;Chota;Llama;060411
+Cajamarca;Chota;Miracosta;060412
+Cajamarca;Chota;Paccha;060413
+Cajamarca;Chota;Pion;060414
+Cajamarca;Chota;Querocoto;060415
+Cajamarca;Chota;San Juan de Licupis;060416
+Cajamarca;Chota;Tacabamba;060417
+Cajamarca;Chota;Tocmoche;060418
+Cajamarca;Contumaza;Chilete;060502
+Cajamarca;Contumaza;Contumaza;060501
+Cajamarca;Contumaza;Cupisnique;060503
+Cajamarca;Contumaza;Guzmango;060504
+Cajamarca;Contumaza;San Benito;060505
+Cajamarca;Contumaza;Santa Cruz de Toled;060506
+Cajamarca;Contumaza;Tantarica;060507
+Cajamarca;Contumaza;Yonan;060508
+Cajamarca;Cutervo;Callayuc;060602
+Cajamarca;Cutervo;Choros;060603
+Cajamarca;Cutervo;Cujillo;060604
+Cajamarca;Cutervo;Cutervo;060601
+Cajamarca;Cutervo;La Ramada;060605
+Cajamarca;Cutervo;Pimpingos;060606
+Cajamarca;Cutervo;Querocotillo;060607
+Cajamarca;Cutervo;San Andres de Cutervo;060608
+Cajamarca;Cutervo;San Juan de Cutervo;060609
+Cajamarca;Cutervo;San Luis de Lucma;060610
+Cajamarca;Cutervo;Santa Cruz;060611
+Cajamarca;Cutervo;Santo Domingo de La Capilla;060612
+Cajamarca;Cutervo;Santo Tomas;060613
+Cajamarca;Cutervo;Socota;060614
+Cajamarca;Cutervo;Toribio Casanova;060615
+Cajamarca;Hualgayoc;Bambamarca;060701
+Cajamarca;Hualgayoc;Chugur;060702
+Cajamarca;Hualgayoc;Hualgayoc;060703
+Cajamarca;Jaen;Bellavista;060802
+Cajamarca;Jaen;Chontali;060803
+Cajamarca;Jaen;Colasay;060804
+Cajamarca;Jaen;Huabal;060805
+Cajamarca;Jaen;Jaen;060801
+Cajamarca;Jaen;Las Pirias;060806
+Cajamarca;Jaen;Pomahuaca;060807
+Cajamarca;Jaen;Pucara;060808
+Cajamarca;Jaen;Sallique;060809
+Cajamarca;Jaen;San Felipe;060810
+Cajamarca;Jaen;San Jose del Alto;060811
+Cajamarca;Jaen;Santa Rosa;060812
+Cajamarca;San Ignacio;Chirinos;060902
+Cajamarca;San Ignacio;Huarango;060903
+Cajamarca;San Ignacio;La Coipa;060904
+Cajamarca;San Ignacio;Namballe;060905
+Cajamarca;San Ignacio;San Ignacio;060901
+Cajamarca;San Ignacio;San Jose de Lourdes;060906
+Cajamarca;San Ignacio;Tabaconas;060907
+Cajamarca;San Marcos;Chancay;061002
+Cajamarca;San Marcos;Eduardo Villanueva;061003
+Cajamarca;San Marcos;Gregorio Pita;061004
+Cajamarca;San Marcos;Ichocan;061005
+Cajamarca;San Marcos;Jose Manuel Quiroz;061006
+Cajamarca;San Marcos;Jose Sabogal;061007
+Cajamarca;San Marcos;Pedro Galvez;061001
+Cajamarca;San Miguel;Bolivar;061102
+Cajamarca;San Miguel;Calquis;061103
+Cajamarca;San Miguel;Catilluc;061104
+Cajamarca;San Miguel;El Prado;061105
+Cajamarca;San Miguel;La Florida;061106
+Cajamarca;San Miguel;Llapa;061107
+Cajamarca;San Miguel;Nanchoc;061108
+Cajamarca;San Miguel;Niepos;061109
+Cajamarca;San Miguel;San Gregorio;061110
+Cajamarca;San Miguel;San Miguel;061101
+Cajamarca;San Miguel;San Silvestre de Cochan;061111
+Cajamarca;San Miguel;Tongod;061112
+Cajamarca;San Miguel;Union Agua Blanca;061113
+Cajamarca;San Pablo;San Bernardino;061202
+Cajamarca;San Pablo;San Luis;061203
+Cajamarca;San Pablo;San Pablo;061201
+Cajamarca;San Pablo;Tumbaden;061204
+Cajamarca;Santa Cruz;Andabamba;061302
+Cajamarca;Santa Cruz;Catache;061303
+Cajamarca;Santa Cruz;Chancaybaños;061304
+Cajamarca;Santa Cruz;La Esperanza;061305
+Cajamarca;Santa Cruz;Ninabamba;061306
+Cajamarca;Santa Cruz;Pulan;061307
+Cajamarca;Santa Cruz;Santa Cruz;061301
+Cajamarca;Santa Cruz;Saucepampa;061308
+Cajamarca;Santa Cruz;Sexi;061309
+Cajamarca;Santa Cruz;Uticyacu;061310
+Cajamarca;Santa Cruz;Yauyucan;061311
+Callao;Callao;Bellavista;070102
+Callao;Callao;Callao;070101
+Callao;Callao;Carmen de La Legua;070103
+Callao;Callao;La Perla;070104
+Callao;Callao;La Punta;070105
+Callao;Callao;Mi Peru;070107
+Callao;Callao;Ventanilla;070106
+Cusco;Acomayo;Acomayo;080201
+Cusco;Acomayo;Acopia;080202
+Cusco;Acomayo;Acos;080203
+Cusco;Acomayo;Mosoc Llacta;080204
+Cusco;Acomayo;Pomacanchi;080205
+Cusco;Acomayo;Rondocan;080206
+Cusco;Acomayo;Sangarara;080207
+Cusco;Anta;Ancahuasi;080302
+Cusco;Anta;Anta;080301
+Cusco;Anta;Cachimayo;080303
+Cusco;Anta;Chinchaypujio;080304
+Cusco;Anta;Huarocondo;080305
+Cusco;Anta;Limatambo;080306
+Cusco;Anta;Mollepata;080307
+Cusco;Anta;Pucyura;080308
+Cusco;Anta;Zurite;080309
+Cusco;Calca;Calca;080401
+Cusco;Calca;Coya;080402
+Cusco;Calca;Lamay;080403
+Cusco;Calca;Lares;080404
+Cusco;Calca;Pisac;080405
+Cusco;Calca;San Salvador;080406
+Cusco;Calca;Taray;080407
+Cusco;Calca;Yanatile;080408
+Cusco;Canas;Checca;080502
+Cusco;Canas;Kunturkanki;080503
+Cusco;Canas;Langui;080504
+Cusco;Canas;Layo;080505
+Cusco;Canas;Pampamarca;080506
+Cusco;Canas;Quehue;080507
+Cusco;Canas;Tupac Amaru;080508
+Cusco;Canas;Yanaoca;080501
+Cusco;Canchis;Checacupe;080602
+Cusco;Canchis;Combapata;080603
+Cusco;Canchis;Marangani;080604
+Cusco;Canchis;Pitumarca;080605
+Cusco;Canchis;San Pablo;080606
+Cusco;Canchis;San Pedro;080607
+Cusco;Canchis;Sicuani;080601
+Cusco;Canchis;Tinta;080608
+Cusco;Chumbivilcas;Capacmarca;080702
+Cusco;Chumbivilcas;Chamaca;080703
+Cusco;Chumbivilcas;Colquemarca;080704
+Cusco;Chumbivilcas;Livitaca;080705
+Cusco;Chumbivilcas;Llusco;080706
+Cusco;Chumbivilcas;Quiñota;080707
+Cusco;Chumbivilcas;Santo Tomas;080701
+Cusco;Chumbivilcas;Velille;080708
+Cusco;Cusco;Ccorca;080102
+Cusco;Cusco;Cusco;080101
+Cusco;Cusco;Poroy;080103
+Cusco;Cusco;San Jeronimo;080104
+Cusco;Cusco;San Sebastian;080105
+Cusco;Cusco;Santiago;080106
+Cusco;Cusco;Saylla;080107
+Cusco;Cusco;Wanchaq;080108
+Cusco;Espinar;Alto Pichigua;080808
+Cusco;Espinar;Condoroma;080802
+Cusco;Espinar;Coporaque;080803
+Cusco;Espinar;Espinar;080801
+Cusco;Espinar;Ocoruro;080804
+Cusco;Espinar;Pallpata;080805
+Cusco;Espinar;Pichigua;080806
+Cusco;Espinar;Suyckutambo;080807
+Cusco;La Convencion;Echarate;080902
+Cusco;La Convencion;Huayopata;080903
+Cusco;La Convencion;Inkawasi;080911
+Cusco;La Convencion;Kimbiri;080907
+Cusco;La Convencion;Maranura;080904
+Cusco;La Convencion;Megantoni;080914
+Cusco;La Convencion;Ocobamba;080905
+Cusco;La Convencion;Pichari;080910
+Cusco;La Convencion;Quellouno;080906
+Cusco;La Convencion;Santa Ana;080901
+Cusco;La Convencion;Santa Teresa;080908
+Cusco;La Convencion;Vilcabamba;080909
+Cusco;La Convencion;Villa Kintiarina;080913
+Cusco;La Convencion;Villa Virgen;080912
+Cusco;Paruro;Accha;081002
+Cusco;Paruro;Ccapi;081003
+Cusco;Paruro;Colcha;081004
+Cusco;Paruro;Huanoquite;081005
+Cusco;Paruro;Omacha;081006
+Cusco;Paruro;Paccaritambo;081007
+Cusco;Paruro;Paruro;081001
+Cusco;Paruro;Pillpinto;081008
+Cusco;Paruro;Yaurisque;081009
+Cusco;Paucartambo;Caicay;081102
+Cusco;Paucartambo;Challabamba;081103
+Cusco;Paucartambo;Colquepata;081104
+Cusco;Paucartambo;Huancarani;081105
+Cusco;Paucartambo;Kosñipata;081106
+Cusco;Paucartambo;Paucartambo;081101
+Cusco;Quispicanchi;Andahuaylillas;081202
+Cusco;Quispicanchi;Camanti;081203
+Cusco;Quispicanchi;Ccarhuayo;081204
+Cusco;Quispicanchi;Ccatca;081205
+Cusco;Quispicanchi;Cusipata;081206
+Cusco;Quispicanchi;Huaro;081207
+Cusco;Quispicanchi;Lucre;081208
+Cusco;Quispicanchi;Marcapata;081209
+Cusco;Quispicanchi;Ocongate;081210
+Cusco;Quispicanchi;Oropesa;081211
+Cusco;Quispicanchi;Quiquijana;081212
+Cusco;Quispicanchi;Urcos;081201
+Cusco;Urubamba;Chinchero;081302
+Cusco;Urubamba;Huayllabamba;081303
+Cusco;Urubamba;Machupicchu;081304
+Cusco;Urubamba;Maras;081305
+Cusco;Urubamba;Ollantaytambo;081306
+Cusco;Urubamba;Urubamba;081301
+Cusco;Urubamba;Yucay;081307
+Huancavelica;Acobamba;Acobamba;090201
+Huancavelica;Acobamba;Andabamba;090202
+Huancavelica;Acobamba;Anta;090203
+Huancavelica;Acobamba;Caja;090204
+Huancavelica;Acobamba;Marcas;090205
+Huancavelica;Acobamba;Paucara;090206
+Huancavelica;Acobamba;Pomacocha;090207
+Huancavelica;Acobamba;Rosario;090208
+Huancavelica;Angaraes;Anchonga;090302
+Huancavelica;Angaraes;Callanmarca;090303
+Huancavelica;Angaraes;Ccochaccasa;090304
+Huancavelica;Angaraes;Chincho;090305
+Huancavelica;Angaraes;Congalla;090306
+Huancavelica;Angaraes;Huanca-Huanca;090307
+Huancavelica;Angaraes;Huayllay Grande;090308
+Huancavelica;Angaraes;Julcamarca;090309
+Huancavelica;Angaraes;Lircay;090301
+Huancavelica;Angaraes;San Antonio de Antaparco;090310
+Huancavelica;Angaraes;Santo Tomas de Pata;090311
+Huancavelica;Angaraes;Secclla;090312
+Huancavelica;Castrovirreyna;Arma;090402
+Huancavelica;Castrovirreyna;Aurahua;090403
+Huancavelica;Castrovirreyna;Capillas;090404
+Huancavelica;Castrovirreyna;Castrovirreyna;090401
+Huancavelica;Castrovirreyna;Chupamarca;090405
+Huancavelica;Castrovirreyna;Cocas;090406
+Huancavelica;Castrovirreyna;Huachos;090407
+Huancavelica;Castrovirreyna;Huamatambo;090408
+Huancavelica;Castrovirreyna;Mollepampa;090409
+Huancavelica;Castrovirreyna;San Juan;090410
+Huancavelica;Castrovirreyna;Santa Ana;090411
+Huancavelica;Castrovirreyna;Tantara;090412
+Huancavelica;Castrovirreyna;Ticrapo;090413
+Huancavelica;Churcampa;Anco;090502
+Huancavelica;Churcampa;Chinchihuasi;090503
+Huancavelica;Churcampa;Churcampa;090501
+Huancavelica;Churcampa;Cosme;090511
+Huancavelica;Churcampa;El Carmen;090504
+Huancavelica;Churcampa;La Merced;090505
+Huancavelica;Churcampa;Locroja;090506
+Huancavelica;Churcampa;Pachamarca;090510
+Huancavelica;Churcampa;Paucarbamba;090507
+Huancavelica;Churcampa;San Miguel de Mayocc;090508
+Huancavelica;Churcampa;San Pedro de Coris;090509
+Huancavelica;Huancavelica;Acobambilla;090102
+Huancavelica;Huancavelica;Acoria;090103
+Huancavelica;Huancavelica;Ascension;090118
+Huancavelica;Huancavelica;Conayca;090104
+Huancavelica;Huancavelica;Cuenca;090105
+Huancavelica;Huancavelica;Huachocolpa;090106
+Huancavelica;Huancavelica;Huancavelica;090101
+Huancavelica;Huancavelica;Huando;090119
+Huancavelica;Huancavelica;Huayllahuara;090107
+Huancavelica;Huancavelica;Izcuchaca;090108
+Huancavelica;Huancavelica;Laria;090109
+Huancavelica;Huancavelica;Manta;090110
+Huancavelica;Huancavelica;Mariscal Caceres;090111
+Huancavelica;Huancavelica;Moya;090112
+Huancavelica;Huancavelica;Nuevo Occoro;090113
+Huancavelica;Huancavelica;Palca;090114
+Huancavelica;Huancavelica;Pilchaca;090115
+Huancavelica;Huancavelica;Vilca;090116
+Huancavelica;Huancavelica;Yauli;090117
+Huancavelica;Huaytara;Ayavi;090602
+Huancavelica;Huaytara;Cordova;090603
+Huancavelica;Huaytara;Huayacundo Arma;090604
+Huancavelica;Huaytara;Huaytara;090601
+Huancavelica;Huaytara;Laramarca;090605
+Huancavelica;Huaytara;Ocoyo;090606
+Huancavelica;Huaytara;Pilpichaca;090607
+Huancavelica;Huaytara;Querco;090608
+Huancavelica;Huaytara;Quito-Arma;090609
+Huancavelica;Huaytara;San Antonio de Cusicancha;090610
+Huancavelica;Huaytara;San Francisco de Sangayaico;090611
+Huancavelica;Huaytara;San Isidro;090612
+Huancavelica;Huaytara;Santiago de Chocorvos;090613
+Huancavelica;Huaytara;Santiago de Quirahuara;090614
+Huancavelica;Huaytara;Santo Domingo de Capillas;090615
+Huancavelica;Huaytara;Tambo;090616
+Huancavelica;Tayacaja;Acostambo;090702
+Huancavelica;Tayacaja;Acraquia;090703
+Huancavelica;Tayacaja;Ahuaycha;090704
+Huancavelica;Tayacaja;Andaymarca;090720
+Huancavelica;Tayacaja;Colcabamba;090705
+Huancavelica;Tayacaja;Daniel Hernandez;090706
+Huancavelica;Tayacaja;Huachocolpa;090707
+Huancavelica;Tayacaja;Huaribamba;090709
+Huancavelica;Tayacaja;Ñahuimpuquio;090710
+Huancavelica;Tayacaja;Pampas;090701
+Huancavelica;Tayacaja;Pazos;090711
+Huancavelica;Tayacaja;Pichos;090722
+Huancavelica;Tayacaja;Quichuas;090719
+Huancavelica;Tayacaja;Quishuar;090713
+Huancavelica;Tayacaja;Roble;090721
+Huancavelica;Tayacaja;Salcabamba;090714
+Huancavelica;Tayacaja;Salcahuasi;090715
+Huancavelica;Tayacaja;San Marcos de Rocchac;090716
+Huancavelica;Tayacaja;Santiago de Túcuma;090723
+Huancavelica;Tayacaja;Surcubamba;090717
+Huancavelica;Tayacaja;Tintay Puncu;090718
+Huanuco;Ambo;Ambo;100201
+Huanuco;Ambo;Cayna;100202
+Huanuco;Ambo;Colpas;100203
+Huanuco;Ambo;Conchamarca;100204
+Huanuco;Ambo;Huacar;100205
+Huanuco;Ambo;San Francisco;100206
+Huanuco;Ambo;San Rafael;100207
+Huanuco;Ambo;Tomay Kichwa;100208
+Huanuco;Dos de Mayo;Chuquis;100307
+Huanuco;Dos de Mayo;La Union;100301
+Huanuco;Dos de Mayo;Marias;100311
+Huanuco;Dos de Mayo;Pachas;100313
+Huanuco;Dos de Mayo;Quivilla;100316
+Huanuco;Dos de Mayo;Ripan;100317
+Huanuco;Dos de Mayo;Shunqui;100321
+Huanuco;Dos de Mayo;Sillapata;100322
+Huanuco;Dos de Mayo;Yanas;100323
+Huanuco;Huacaybamba;Canchabamba;100402
+Huanuco;Huacaybamba;Cochabamba;100403
+Huanuco;Huacaybamba;Huacaybamba;100401
+Huanuco;Huacaybamba;Pinra;100404
+Huanuco;Huamalies;Arancay;100502
+Huanuco;Huamalies;Chavin de Pariarca;100503
+Huanuco;Huamalies;Jacas Grande;100504
+Huanuco;Huamalies;Jircan;100505
+Huanuco;Huamalies;Llata;100501
+Huanuco;Huamalies;Miraflores;100506
+Huanuco;Huamalies;Monzon;100507
+Huanuco;Huamalies;Punchao;100508
+Huanuco;Huamalies;Puños;100509
+Huanuco;Huamalies;Singa;100510
+Huanuco;Huamalies;Tantamayo;100511
+Huanuco;Huanuco;Amarilis;100102
+Huanuco;Huanuco;Chinchao;100103
+Huanuco;Huanuco;Churubamba;100104
+Huanuco;Huanuco;Huanuco;100101
+Huanuco;Huanuco;Margos;100105
+Huanuco;Huanuco;Pillco Marca;100111
+Huanuco;Huanuco;Quisqui;100106
+Huanuco;Huanuco;San Francisco de Cayran;100107
+Huanuco;Huanuco;San Pablo de Pillao;100113
+Huanuco;Huanuco;San Pedro de Chaulan;100108
+Huanuco;Huanuco;Santa Maria del Valle;100109
+Huanuco;Huanuco;Yacus;100112
+Huanuco;Huanuco;Yarumayo;100110
+Huanuco;Lauricocha;Baños;101002
+Huanuco;Lauricocha;Jesus;101001
+Huanuco;Lauricocha;Jivia;101003
+Huanuco;Lauricocha;Queropalca;101004
+Huanuco;Lauricocha;Rondos;101005
+Huanuco;Lauricocha;San Francisco de Asis;101006
+Huanuco;Lauricocha;San Miguel de Cauri;101007
+Huanuco;Leoncio Prado;Castillo Grande;100608
+Huanuco;Leoncio Prado;Daniel Alomias Robles;100602
+Huanuco;Leoncio Prado;Hermilio Valdizan;100603
+Huanuco;Leoncio Prado;Jose Crespo y Castillo;100604
+Huanuco;Leoncio Prado;Luyando;100605
+Huanuco;Leoncio Prado;Mariano Damaso Beraun;100606
+Huanuco;Leoncio Prado;Pucayacu;100607
+Huanuco;Leoncio Prado;Pueblo Nuevo;100609
+Huanuco;Leoncio Prado;Rupa-Rupa;100601
+Huanuco;Leoncio Prado;Santo Domingo de Anda;100610
+Huanuco;Marañon;Cholon;100702
+Huanuco;Marañon;Huacrachuco;100701
+Huanuco;Marañon;La Morada;100704
+Huanuco;Marañon;San Buenaventura;100703
+Huanuco;Marañon;Santa Rosa de Alto Yanajanca;100705
+Huanuco;Pachitea;Chaglla;100802
+Huanuco;Pachitea;Molino;100803
+Huanuco;Pachitea;Panao;100801
+Huanuco;Pachitea;Umari;100804
+Huanuco;Puerto Inca;Codo del Pozuzo;100902
+Huanuco;Puerto Inca;Honoria;100903
+Huanuco;Puerto Inca;Puerto Inca;100901
+Huanuco;Puerto Inca;Tournavista;100904
+Huanuco;Puerto Inca;Yuyapichis;100905
+Huanuco;Yarowilca;Aparicio Pomares;101104
+Huanuco;Yarowilca;Cahuac;101102
+Huanuco;Yarowilca;Chacabamba;101103
+Huanuco;Yarowilca;Chavinillo;101101
+Huanuco;Yarowilca;Choras;101108
+Huanuco;Yarowilca;Jacas Chico;101105
+Huanuco;Yarowilca;Obas;101106
+Huanuco;Yarowilca;Pampamarca;101107
+Ica;Chincha;Alto Laran;110202
+Ica;Chincha;Chavin;110203
+Ica;Chincha;Chincha Alta;110201
+Ica;Chincha;Chincha Baja;110204
+Ica;Chincha;El Carmen;110205
+Ica;Chincha;Grocio Prado;110206
+Ica;Chincha;Pueblo Nuevo;110207
+Ica;Chincha;San Juan de Yanac;110208
+Ica;Chincha;San Pedro de Huacarpana;110209
+Ica;Chincha;Sunampe;110210
+Ica;Chincha;Tambo de Mora;110211
+Ica;Ica;Ica;110101
+Ica;Ica;La Tinguiña;110102
+Ica;Ica;Los Aquijes;110103
+Ica;Ica;Ocucaje;110104
+Ica;Ica;Pachacutec;110105
+Ica;Ica;Parcona;110106
+Ica;Ica;Pueblo Nuevo;110107
+Ica;Ica;Salas;110108
+Ica;Ica;San Jose de los Molinos;110109
+Ica;Ica;San Juan Bautista;110110
+Ica;Ica;Santiago;110111
+Ica;Ica;Subtanjalla;110112
+Ica;Ica;Tate;110113
+Ica;Ica;Yauca del Rosario;110114
+Ica;Nazca;Changuillo;110302
+Ica;Nazca;El Ingenio;110303
+Ica;Nazca;Marcona;110304
+Ica;Nazca;Nazca;110301
+Ica;Nazca;Vista Alegre;110305
+Ica;Palpa;Llipata;110402
+Ica;Palpa;Palpa;110401
+Ica;Palpa;Rio Grande;110403
+Ica;Palpa;Santa Cruz;110404
+Ica;Palpa;Tibillo;110405
+Ica;Pisco;Huancano;110502
+Ica;Pisco;Humay;110503
+Ica;Pisco;Independencia;110504
+Ica;Pisco;Paracas;110505
+Ica;Pisco;Pisco;110501
+Ica;Pisco;San Andres;110506
+Ica;Pisco;San Clemente;110507
+Ica;Pisco;Tupac Amaru Inca;110508
+Junin;Chanchamayo;Chanchamayo;120301
+Junin;Chanchamayo;Perene;120302
+Junin;Chanchamayo;Pichanaqui;120303
+Junin;Chanchamayo;San Luis de Shuaro;120304
+Junin;Chanchamayo;San Ramon;120305
+Junin;Chanchamayo;Vitoc;120306
+Junin;Chupaca;Ahuac;120902
+Junin;Chupaca;Chongos Bajo;120903
+Junin;Chupaca;Chupaca;120901
+Junin;Chupaca;Huachac;120904
+Junin;Chupaca;Huamancaca Chico;120905
+Junin;Chupaca;San Juan de Jarpa;120907
+Junin;Chupaca;San Juan de Yscos;120906
+Junin;Chupaca;Tres de Diciembre;120908
+Junin;Chupaca;Yanacancha;120909
+Junin;Concepcion;Aco;120202
+Junin;Concepcion;Andamarca;120203
+Junin;Concepcion;Chambara;120204
+Junin;Concepcion;Cochas;120205
+Junin;Concepcion;Comas;120206
+Junin;Concepcion;Concepcion;120201
+Junin;Concepcion;Heroinas Toledo;120207
+Junin;Concepcion;Manzanares;120208
+Junin;Concepcion;Mariscal Castilla;120209
+Junin;Concepcion;Matahuasi;120210
+Junin;Concepcion;Mito;120211
+Junin;Concepcion;Nueve de Julio;120212
+Junin;Concepcion;Orcotuna;120213
+Junin;Concepcion;San Jose de Quero;120214
+Junin;Concepcion;Santa Rosa de Ocopa;120215
+Junin;Huancayo;Carhuacallanga;120104
+Junin;Huancayo;Chacapampa;120105
+Junin;Huancayo;Chicche;120106
+Junin;Huancayo;Chilca;120107
+Junin;Huancayo;Chongos Alto;120108
+Junin;Huancayo;Chupuro;120111
+Junin;Huancayo;Colca;120112
+Junin;Huancayo;Cullhuas;120113
+Junin;Huancayo;El Tambo;120114
+Junin;Huancayo;Huacrapuquio;120116
+Junin;Huancayo;Hualhuas;120117
+Junin;Huancayo;Huancan;120119
+Junin;Huancayo;Huancayo;120101
+Junin;Huancayo;Huasicancha;120120
+Junin;Huancayo;Huayucachi;120121
+Junin;Huancayo;Ingenio;120122
+Junin;Huancayo;Pariahuanca;120124
+Junin;Huancayo;Pilcomayo;120125
+Junin;Huancayo;Pucara;120126
+Junin;Huancayo;Quichuay;120127
+Junin;Huancayo;Quilcas;120128
+Junin;Huancayo;San Agustin;120129
+Junin;Huancayo;San Jeronimo de Tunan;120130
+Junin;Huancayo;Santo Domingo de Acobamba;120135
+Junin;Huancayo;Saño;120132
+Junin;Huancayo;Sapallanga;120133
+Junin;Huancayo;Sicaya;120134
+Junin;Huancayo;Viques;120136
+Junin;Jauja;Acolla;120402
+Junin;Jauja;Apata;120403
+Junin;Jauja;Ataura;120404
+Junin;Jauja;Canchayllo;120405
+Junin;Jauja;Curicaca;120406
+Junin;Jauja;El Mantaro;120407
+Junin;Jauja;Huamali;120408
+Junin;Jauja;Huaripampa;120409
+Junin;Jauja;Huertas;120410
+Junin;Jauja;Janjaillo;120411
+Junin;Jauja;Jauja;120401
+Junin;Jauja;Julcan;120412
+Junin;Jauja;Leonor Ordoñez;120413
+Junin;Jauja;Llocllapampa;120414
+Junin;Jauja;Marco;120415
+Junin;Jauja;Masma;120416
+Junin;Jauja;Masma Chicche;120417
+Junin;Jauja;Molinos;120418
+Junin;Jauja;Monobamba;120419
+Junin;Jauja;Muqui;120420
+Junin;Jauja;Muquiyauyo;120421
+Junin;Jauja;Paca;120422
+Junin;Jauja;Paccha;120423
+Junin;Jauja;Pancan;120424
+Junin;Jauja;Parco;120425
+Junin;Jauja;Pomacancha;120426
+Junin;Jauja;Ricran;120427
+Junin;Jauja;San Lorenzo;120428
+Junin;Jauja;San Pedro de Chunan;120429
+Junin;Jauja;Sausa;120430
+Junin;Jauja;Sincos;120431
+Junin;Jauja;Tunan Marca;120432
+Junin;Jauja;Yauli;120433
+Junin;Jauja;Yauyos;120434
+Junin;Junin;Carhuamayo;120502
+Junin;Junin;Junin;120501
+Junin;Junin;Ondores;120503
+Junin;Junin;Ulcumayo;120504
+Junin;Satipo;Coviriali;120602
+Junin;Satipo;Llaylla;120603
+Junin;Satipo;Mazamari;120604
+Junin;Satipo;Pampa Hermosa;120605
+Junin;Satipo;Pangoa;120606
+Junin;Satipo;Rio Negro;120607
+Junin;Satipo;Rio Tambo;120608
+Junin;Satipo;Satipo;120601
+Junin;Satipo;Vizcatán del Ene;120609
+Junin;Tarma;Acobamba;120702
+Junin;Tarma;Huaricolca;120703
+Junin;Tarma;Huasahuasi;120704
+Junin;Tarma;La Union;120705
+Junin;Tarma;Palca;120706
+Junin;Tarma;Palcamayo;120707
+Junin;Tarma;San Pedro de Cajas;120708
+Junin;Tarma;Tapo;120709
+Junin;Tarma;Tarma;120701
+Junin;Yauli;Chacapalpa;120802
+Junin;Yauli;Huay-Huay;120803
+Junin;Yauli;La Oroya;120801
+Junin;Yauli;Marcapomacocha;120804
+Junin;Yauli;Morococha;120805
+Junin;Yauli;Paccha;120806
+Junin;Yauli;Santa Barbara de Carhuacayan;120807
+Junin;Yauli;Santa Rosa de Sacco;120808
+Junin;Yauli;Suitucancha;120809
+Junin;Yauli;Yauli;120810
+La Libertad;Ascope;Ascope;130201
+La Libertad;Ascope;Casa Grande;130208
+La Libertad;Ascope;Chicama;130202
+La Libertad;Ascope;Chocope;130203
+La Libertad;Ascope;Magdalena de Cao;130204
+La Libertad;Ascope;Paijan;130205
+La Libertad;Ascope;Razuri;130206
+La Libertad;Ascope;Santiago de Cao;130207
+La Libertad;Bolivar;Bambamarca;130302
+La Libertad;Bolivar;Bolivar;130301
+La Libertad;Bolivar;Condormarca;130303
+La Libertad;Bolivar;Longotea;130304
+La Libertad;Bolivar;Uchumarca;130305
+La Libertad;Bolivar;Ucuncha;130306
+La Libertad;Chepen;Chepen;130401
+La Libertad;Chepen;Pacanga;130402
+La Libertad;Chepen;Pueblo Nuevo;130403
+La Libertad;Gran Chimu;Cascas;131101
+La Libertad;Gran Chimu;Compin;131103
+La Libertad;Gran Chimu;Lucma;131102
+La Libertad;Gran Chimu;Sayapullo;131104
+La Libertad;Julcan;Calamarca;130502
+La Libertad;Julcan;Carabamba;130503
+La Libertad;Julcan;Huaso;130504
+La Libertad;Julcan;Julcan;130501
+La Libertad;Otuzco;Agallpampa;130602
+La Libertad;Otuzco;Charat;130604
+La Libertad;Otuzco;Huaranchal;130605
+La Libertad;Otuzco;La Cuesta;130606
+La Libertad;Otuzco;Mache;130608
+La Libertad;Otuzco;Otuzco;130601
+La Libertad;Otuzco;Paranday;130610
+La Libertad;Otuzco;Salpo;130611
+La Libertad;Otuzco;Sinsicap;130613
+La Libertad;Otuzco;Usquil;130614
+La Libertad;Pacasmayo;Guadalupe;130702
+La Libertad;Pacasmayo;Jequetepeque;130703
+La Libertad;Pacasmayo;Pacasmayo;130704
+La Libertad;Pacasmayo;San Jose;130705
+La Libertad;Pacasmayo;San Pedro de Lloc;130701
+La Libertad;Pataz;Buldibuyo;130802
+La Libertad;Pataz;Chillia;130803
+La Libertad;Pataz;Huancaspata;130804
+La Libertad;Pataz;Huaylillas;130805
+La Libertad;Pataz;Huayo;130806
+La Libertad;Pataz;Ongon;130807
+La Libertad;Pataz;Parcoy;130808
+La Libertad;Pataz;Pataz;130809
+La Libertad;Pataz;Pias;130810
+La Libertad;Pataz;Santiago de Challas;130811
+La Libertad;Pataz;Taurija;130812
+La Libertad;Pataz;Tayabamba;130801
+La Libertad;Pataz;Urpay;130813
+La Libertad;Sanchez Carrion;Chugay;130902
+La Libertad;Sanchez Carrion;Cochorco;130903
+La Libertad;Sanchez Carrion;Curgos;130904
+La Libertad;Sanchez Carrion;Huamachuco;130901
+La Libertad;Sanchez Carrion;Marcabal;130905
+La Libertad;Sanchez Carrion;Sanagoran;130906
+La Libertad;Sanchez Carrion;Sarin;130907
+La Libertad;Sanchez Carrion;Sartimbamba;130908
+La Libertad;Santiago de Chuco;Angasmarca;131002
+La Libertad;Santiago de Chuco;Cachicadan;131003
+La Libertad;Santiago de Chuco;Mollebamba;131004
+La Libertad;Santiago de Chuco;Mollepata;131005
+La Libertad;Santiago de Chuco;Quiruvilca;131006
+La Libertad;Santiago de Chuco;Santa Cruz de Chuca;131007
+La Libertad;Santiago de Chuco;Santiago de Chuco;131001
+La Libertad;Santiago de Chuco;Sitabamba;131008
+La Libertad;Trujillo;El Porvenir;130102
+La Libertad;Trujillo;Florencia de Mora;130103
+La Libertad;Trujillo;Huanchaco;130104
+La Libertad;Trujillo;La Esperanza;130105
+La Libertad;Trujillo;Laredo;130106
+La Libertad;Trujillo;Moche;130107
+La Libertad;Trujillo;Poroto;130108
+La Libertad;Trujillo;Salaverry;130109
+La Libertad;Trujillo;Simbal;130110
+La Libertad;Trujillo;Trujillo;130101
+La Libertad;Trujillo;Victor Larco Herrera;130111
+La Libertad;Viru;Chao;131202
+La Libertad;Viru;Guadalupito;131203
+La Libertad;Viru;Viru;131201
+Lambayeque;Chiclayo;Cayalti;140116
+Lambayeque;Chiclayo;Chiclayo;140101
+Lambayeque;Chiclayo;Chongoyape;140102
+Lambayeque;Chiclayo;Eten;140103
+Lambayeque;Chiclayo;Eten Puerto;140104
+Lambayeque;Chiclayo;Jose Leonardo Ortiz;140105
+Lambayeque;Chiclayo;La Victoria;140106
+Lambayeque;Chiclayo;Lagunas;140107
+Lambayeque;Chiclayo;Monsefu;140108
+Lambayeque;Chiclayo;Nueva Arica;140109
+Lambayeque;Chiclayo;Oyotun;140110
+Lambayeque;Chiclayo;Patapo;140117
+Lambayeque;Chiclayo;Picsi;140111
+Lambayeque;Chiclayo;Pimentel;140112
+Lambayeque;Chiclayo;Pomalca;140118
+Lambayeque;Chiclayo;Pucala;140119
+Lambayeque;Chiclayo;Reque;140113
+Lambayeque;Chiclayo;Santa Rosa;140114
+Lambayeque;Chiclayo;Saña;140115
+Lambayeque;Chiclayo;Tuman;140120
+Lambayeque;Ferreñafe;Cañaris;140202
+Lambayeque;Ferreñafe;Ferreñafe;140201
+Lambayeque;Ferreñafe;Incahuasi;140203
+Lambayeque;Ferreñafe;Manuel Antonio Mesones Muro;140204
+Lambayeque;Ferreñafe;Pitipo;140205
+Lambayeque;Ferreñafe;Pueblo Nuevo;140206
+Lambayeque;Lambayeque;Chochope;140302
+Lambayeque;Lambayeque;Illimo;140303
+Lambayeque;Lambayeque;Jayanca;140304
+Lambayeque;Lambayeque;Lambayeque;140301
+Lambayeque;Lambayeque;Mochumi;140305
+Lambayeque;Lambayeque;Morrope;140306
+Lambayeque;Lambayeque;Motupe;140307
+Lambayeque;Lambayeque;Olmos;140308
+Lambayeque;Lambayeque;Pacora;140309
+Lambayeque;Lambayeque;Salas;140310
+Lambayeque;Lambayeque;San Jose;140311
+Lambayeque;Lambayeque;Tucume;140312
+Lima;Barranca;Barranca;150201
+Lima;Barranca;Paramonga;150202
+Lima;Barranca;Pativilca;150203
+Lima;Barranca;Supe;150204
+Lima;Barranca;Supe Puerto;150205
+Lima;Cajatambo;Cajatambo;150301
+Lima;Cajatambo;Copa;150302
+Lima;Cajatambo;Gorgor;150303
+Lima;Cajatambo;Huancapon;150304
+Lima;Cajatambo;Manas;150305
+Lima;Canta;Arahuay;150402
+Lima;Canta;Canta;150401
+Lima;Canta;Huamantanga;150403
+Lima;Canta;Huaros;150404
+Lima;Canta;Lachaqui;150405
+Lima;Canta;San Buenaventura;150406
+Lima;Canta;Santa Rosa de Quives;150407
+Lima;Cañete;Asia;150502
+Lima;Cañete;Calango;150503
+Lima;Cañete;Cerro Azul;150504
+Lima;Cañete;Chilca;150505
+Lima;Cañete;Coayllo;150506
+Lima;Cañete;Imperial;150507
+Lima;Cañete;Lunahuana;150508
+Lima;Cañete;Mala;150509
+Lima;Cañete;Nuevo Imperial;150510
+Lima;Cañete;Pacaran;150511
+Lima;Cañete;Quilmana;150512
+Lima;Cañete;San Antonio;150513
+Lima;Cañete;San Luis;150514
+Lima;Cañete;San Vicente de Cañete;150501
+Lima;Cañete;Santa Cruz de Flores;150515
+Lima;Cañete;Zuñiga;150516
+Lima;Huaral;Atavillos Alto;150602
+Lima;Huaral;Atavillos Bajo;150603
+Lima;Huaral;Aucallama;150604
+Lima;Huaral;Chancay;150605
+Lima;Huaral;Huaral;150601
+Lima;Huaral;Ihuari;150606
+Lima;Huaral;Lampian;150607
+Lima;Huaral;Pacaraos;150608
+Lima;Huaral;San Miguel de Acos;150609
+Lima;Huaral;Santa Cruz de Andamarca;150610
+Lima;Huaral;Sumbilca;150611
+Lima;Huaral;Veintisiete de Noviembre;150612
+Lima;Huarochiri;Antioquia;150702
+Lima;Huarochiri;Callahuanca;150703
+Lima;Huarochiri;Carampoma;150704
+Lima;Huarochiri;Chicla;150705
+Lima;Huarochiri;Cuenca;150706
+Lima;Huarochiri;Huachupampa;150707
+Lima;Huarochiri;Huanza;150708
+Lima;Huarochiri;Huarochiri;150709
+Lima;Huarochiri;Lahuaytambo;150710
+Lima;Huarochiri;Langa;150711
+Lima;Huarochiri;Laraos;150712
+Lima;Huarochiri;Mariatana;150713
+Lima;Huarochiri;Matucana;150701
+Lima;Huarochiri;Ricardo Palma;150714
+Lima;Huarochiri;San Andres de Tupicocha;150715
+Lima;Huarochiri;San Antonio;150716
+Lima;Huarochiri;San Bartolome;150717
+Lima;Huarochiri;San Damian;150718
+Lima;Huarochiri;San Juan de Iris;150719
+Lima;Huarochiri;San Juan de Tantaranche;150720
+Lima;Huarochiri;San Lorenzo de Quinti;150721
+Lima;Huarochiri;San Mateo;150722
+Lima;Huarochiri;San Mateo de Otao;150723
+Lima;Huarochiri;San Pedro de Casta;150724
+Lima;Huarochiri;San Pedro de Huancayre;150725
+Lima;Huarochiri;Sangallaya;150726
+Lima;Huarochiri;Santa Cruz de Cocachacra;150727
+Lima;Huarochiri;Santa Eulalia;150728
+Lima;Huarochiri;Santiago de Anchucaya;150729
+Lima;Huarochiri;Santiago de Tuna;150730
+Lima;Huarochiri;Santo Domingo de los Olleros;150731
+Lima;Huarochiri;Surco;150732
+Lima;Huaura;Ambar;150802
+Lima;Huaura;Caleta de Carquin;150803
+Lima;Huaura;Checras;150804
+Lima;Huaura;Huacho;150801
+Lima;Huaura;Hualmay;150805
+Lima;Huaura;Huaura;150806
+Lima;Huaura;Leoncio Prado;150807
+Lima;Huaura;Paccho;150808
+Lima;Huaura;Santa Leonor;150809
+Lima;Huaura;Santa Maria;150810
+Lima;Huaura;Sayan;150811
+Lima;Huaura;Vegueta;150812
+Lima;Lima;Ancon;150102
+Lima;Lima;Ate;150103
+Lima;Lima;Barranco;150104
+Lima;Lima;Breña;150105
+Lima;Lima;Carabayllo;150106
+Lima;Lima;Chaclacayo;150107
+Lima;Lima;Chorrillos;150108
+Lima;Lima;Cieneguilla;150109
+Lima;Lima;Comas;150110
+Lima;Lima;El Agustino;150111
+Lima;Lima;Independencia;150112
+Lima;Lima;Jesus Maria;150113
+Lima;Lima;La Molina;150114
+Lima;Lima;La Victoria;150115
+Lima;Lima;Lima;150101
+Lima;Lima;Lince;150116
+Lima;Lima;Los Olivos;150117
+Lima;Lima;Lurigancho;150118
+Lima;Lima;Lurin;150119
+Lima;Lima;Magdalena del Mar;150120
+Lima;Lima;Miraflores;150122
+Lima;Lima;Pachacamac;150123
+Lima;Lima;Pucusana;150124
+Lima;Lima;Pueblo Libre;150121
+Lima;Lima;Puente Piedra;150125
+Lima;Lima;Punta Hermosa;150126
+Lima;Lima;Punta Negra;150127
+Lima;Lima;Rimac;150128
+Lima;Lima;San Bartolo;150129
+Lima;Lima;San Borja;150130
+Lima;Lima;San Isidro;150131
+Lima;Lima;San Juan de Lurigancho;150132
+Lima;Lima;San Juan de Miraflores;150133
+Lima;Lima;San Luis;150134
+Lima;Lima;San Martin de Porres;150135
+Lima;Lima;San Miguel;150136
+Lima;Lima;Santa Anita;150137
+Lima;Lima;Santa Maria del Mar;150138
+Lima;Lima;Santa Rosa;150139
+Lima;Lima;Santiago de Surco;150140
+Lima;Lima;Surquillo;150141
+Lima;Lima;Villa El Salvador;150142
+Lima;Lima;Villa Maria del Triunfo;150143
+Lima;Oyon;Andajes;150902
+Lima;Oyon;Caujul;150903
+Lima;Oyon;Cochamarca;150904
+Lima;Oyon;Navan;150905
+Lima;Oyon;Oyon;150901
+Lima;Oyon;Pachangara;150906
+Lima;Yauyos;Alis;151002
+Lima;Yauyos;Ayauca;151003
+Lima;Yauyos;Ayaviri;151004
+Lima;Yauyos;Azangaro;151005
+Lima;Yauyos;Cacra;151006
+Lima;Yauyos;Carania;151007
+Lima;Yauyos;Catahuasi;151008
+Lima;Yauyos;Chocos;151009
+Lima;Yauyos;Cochas;151010
+Lima;Yauyos;Colonia;151011
+Lima;Yauyos;Hongos;151012
+Lima;Yauyos;Huampara;151013
+Lima;Yauyos;Huancaya;151014
+Lima;Yauyos;Huangascar;151015
+Lima;Yauyos;Huantan;151016
+Lima;Yauyos;Huañec;151017
+Lima;Yauyos;Laraos;151018
+Lima;Yauyos;Lincha;151019
+Lima;Yauyos;Madean;151020
+Lima;Yauyos;Miraflores;151021
+Lima;Yauyos;Omas;151022
+Lima;Yauyos;Putinza;151023
+Lima;Yauyos;Quinches;151024
+Lima;Yauyos;Quinocay;151025
+Lima;Yauyos;San Joaquin;151026
+Lima;Yauyos;San Pedro de Pilas;151027
+Lima;Yauyos;Tanta;151028
+Lima;Yauyos;Tauripampa;151029
+Lima;Yauyos;Tomas;151030
+Lima;Yauyos;Tupe;151031
+Lima;Yauyos;Viñac;151032
+Lima;Yauyos;Vitis;151033
+Lima;Yauyos;Yauyos;151001
+Loreto;Alto Amazonas;Balsapuerto;160202
+Loreto;Alto Amazonas;Jeberos;160205
+Loreto;Alto Amazonas;Lagunas;160206
+Loreto;Alto Amazonas;Santa Cruz;160210
+Loreto;Alto Amazonas;Teniente Cesar Lopez Rojas;160211
+Loreto;Alto Amazonas;Yurimaguas;160201
+Loreto;Datem del Marañon;Andoas;160706
+Loreto;Datem del Marañon;Barranca;160701
+Loreto;Datem del Marañon;Cahuapanas;160702
+Loreto;Datem del Marañon;Manseriche;160703
+Loreto;Datem del Marañon;Morona;160704
+Loreto;Datem del Marañon;Pastaza;160705
+Loreto;Loreto;Nauta;160301
+Loreto;Loreto;Parinari;160302
+Loreto;Loreto;Tigre;160303
+Loreto;Loreto;Trompeteros;160304
+Loreto;Loreto;Urarinas;160305
+Loreto;Mariscal Ramon Castilla;Pebas;160402
+Loreto;Mariscal Ramon Castilla;Ramon Castilla;160401
+Loreto;Mariscal Ramon Castilla;San Pablo;160404
+Loreto;Mariscal Ramon Castilla;Yavari;160403
+Loreto;Maynas;Alto Nanay;160102
+Loreto;Maynas;Belen;160112
+Loreto;Maynas;Fernando Lores;160103
+Loreto;Maynas;Indiana;160104
+Loreto;Maynas;Iquitos;160101
+Loreto;Maynas;Las Amazonas;160105
+Loreto;Maynas;Mazan;160106
+Loreto;Maynas;Napo;160107
+Loreto;Maynas;Punchana;160108
+Loreto;Maynas;Putumayo;160801
+Loreto;Maynas;Rosa Panduro;160802
+Loreto;Maynas;San Juan Bautista;160113
+Loreto;Maynas;Teniente Manuel Clavero;160803
+Loreto;Maynas;Torres Causana;160110
+Loreto;Maynas;Yaguas;160804
+Loreto;Requena;Alto Tapiche;160502
+Loreto;Requena;Capelo;160503
+Loreto;Requena;Emilio San Martin;160504
+Loreto;Requena;Jenaro Herrera;160510
+Loreto;Requena;Maquia;160505
+Loreto;Requena;Puinahua;160506
+Loreto;Requena;Requena;160501
+Loreto;Requena;Saquena;160507
+Loreto;Requena;Soplin;160508
+Loreto;Requena;Tapiche;160509
+Loreto;Requena;Yaquerana;160511
+Loreto;Ucayali;Contamana;160601
+Loreto;Ucayali;Inahuaya;160602
+Loreto;Ucayali;Padre Marquez;160603
+Loreto;Ucayali;Pampa Hermosa;160604
+Loreto;Ucayali;Sarayacu;160605
+Loreto;Ucayali;Vargas Guerra;160606
+Madre de Dios;Manu;Fitzcarrald;170202
+Madre de Dios;Manu;Huepetuhe;170204
+Madre de Dios;Manu;Madre de Dios;170203
+Madre de Dios;Manu;Manu;170201
+Madre de Dios;Tahuamanu;Iberia;170302
+Madre de Dios;Tahuamanu;Iñapari;170301
+Madre de Dios;Tahuamanu;Tahuamanu;170303
+Madre de Dios;Tambopata;Inambari;170102
+Madre de Dios;Tambopata;Laberinto;170104
+Madre de Dios;Tambopata;Las Piedras;170103
+Madre de Dios;Tambopata;Tambopata;170101
+Moquegua;General Sanchez Cerr;Chojata;180202
+Moquegua;General Sanchez Cerr;Coalaque;180203
+Moquegua;General Sanchez Cerr;Ichuña;180204
+Moquegua;General Sanchez Cerr;La Capilla;180205
+Moquegua;General Sanchez Cerr;Lloque;180206
+Moquegua;General Sanchez Cerr;Matalaque;180207
+Moquegua;General Sanchez Cerr;Omate;180201
+Moquegua;General Sanchez Cerr;Puquina;180208
+Moquegua;General Sanchez Cerr;Quinistaquillas;180209
+Moquegua;General Sanchez Cerr;Ubinas;180210
+Moquegua;General Sanchez Cerr;Yunga;180211
+Moquegua;Ilo;El Algarrobal;180302
+Moquegua;Ilo;Ilo;180301
+Moquegua;Ilo;Pacocha;180303
+Moquegua;Mariscal Nieto;Carumas;180102
+Moquegua;Mariscal Nieto;Cuchumbaya;180103
+Moquegua;Mariscal Nieto;Moquegua;180101
+Moquegua;Mariscal Nieto;Samegua;180104
+Moquegua;Mariscal Nieto;San Cristobal;180105
+Moquegua;Mariscal Nieto;Torata;180106
+Pasco;Daniel Alcides Carri;Chacayan;190202
+Pasco;Daniel Alcides Carri;Goyllarisquizga;190203
+Pasco;Daniel Alcides Carri;Paucar;190204
+Pasco;Daniel Alcides Carri;San Pedro de Pillao;190205
+Pasco;Daniel Alcides Carri;Santa Ana de Tusi;190206
+Pasco;Daniel Alcides Carri;Tapuc;190207
+Pasco;Daniel Alcides Carri;Vilcabamba;190208
+Pasco;Daniel Alcides Carri;Yanahuanca;190201
+Pasco;Oxapampa;Chontabamba;190302
+Pasco;Oxapampa;Constitución;190308
+Pasco;Oxapampa;Huancabamba;190303
+Pasco;Oxapampa;Oxapampa;190301
+Pasco;Oxapampa;Palcazu;190304
+Pasco;Oxapampa;Pozuzo;190305
+Pasco;Oxapampa;Puerto Bermudez;190306
+Pasco;Oxapampa;Villa Rica;190307
+Pasco;Pasco;Chaupimarca;190101
+Pasco;Pasco;Huachon;190102
+Pasco;Pasco;Huariaca;190103
+Pasco;Pasco;Huayllay;190104
+Pasco;Pasco;Ninacaca;190105
+Pasco;Pasco;Pallanchacra;190106
+Pasco;Pasco;Paucartambo;190107
+Pasco;Pasco;San Francisco de Asis de Yarusyacan;190108
+Pasco;Pasco;Simon Bolivar;190109
+Pasco;Pasco;Ticlacayan;190110
+Pasco;Pasco;Tinyahuarco;190111
+Pasco;Pasco;Vicco;190112
+Pasco;Pasco;Yanacancha;190113
+Piura;Ayabaca;Ayabaca;200201
+Piura;Ayabaca;Frias;200202
+Piura;Ayabaca;Jilili;200203
+Piura;Ayabaca;Lagunas;200204
+Piura;Ayabaca;Montero;200205
+Piura;Ayabaca;Pacaipampa;200206
+Piura;Ayabaca;Paimas;200207
+Piura;Ayabaca;Sapillica;200208
+Piura;Ayabaca;Sicchez;200209
+Piura;Ayabaca;Suyo;200210
+Piura;Huancabamba;Canchaque;200302
+Piura;Huancabamba;El Carmen de La Frontera;200303
+Piura;Huancabamba;Huancabamba;200301
+Piura;Huancabamba;Huarmaca;200304
+Piura;Huancabamba;Lalaquiz;200305
+Piura;Huancabamba;San Miguel de El Faique;200306
+Piura;Huancabamba;Sondor;200307
+Piura;Huancabamba;Sondorillo;200308
+Piura;Morropon;Buenos Aires;200402
+Piura;Morropon;Chalaco;200403
+Piura;Morropon;Chulucanas;200401
+Piura;Morropon;La Matanza;200404
+Piura;Morropon;Morropon;200405
+Piura;Morropon;Salitral;200406
+Piura;Morropon;San Juan de Bigote;200407
+Piura;Morropon;Santa Catalina de Mossa;200408
+Piura;Morropon;Santo Domingo;200409
+Piura;Morropon;Yamango;200410
+Piura;Paita;Amotape;200502
+Piura;Paita;Arenal;200503
+Piura;Paita;Colan;200504
+Piura;Paita;La Huaca;200505
+Piura;Paita;Paita;200501
+Piura;Paita;Tamarindo;200506
+Piura;Paita;Vichayal;200507
+Piura;Piura;26 de Octubre;200115
+Piura;Piura;Castilla;200104
+Piura;Piura;Catacaos;200105
+Piura;Piura;Cura Mori;200107
+Piura;Piura;El Tallan;200108
+Piura;Piura;La Arena;200109
+Piura;Piura;La Union;200110
+Piura;Piura;Las Lomas;200111
+Piura;Piura;Piura;200101
+Piura;Piura;Tambo Grande;200114
+Piura;Sechura;Bellavista de La Union;200802
+Piura;Sechura;Bernal;200803
+Piura;Sechura;Cristo Nos Valga;200804
+Piura;Sechura;Rinconada Llicuar;200806
+Piura;Sechura;Sechura;200801
+Piura;Sechura;Vice;200805
+Piura;Sullana;Bellavista;200602
+Piura;Sullana;Ignacio Escudero;200603
+Piura;Sullana;Lancones;200604
+Piura;Sullana;Marcavelica;200605
+Piura;Sullana;Miguel Checa;200606
+Piura;Sullana;Querecotillo;200607
+Piura;Sullana;Salitral;200608
+Piura;Sullana;Sullana;200601
+Piura;Talara;El Alto;200702
+Piura;Talara;La Brea;200703
+Piura;Talara;Lobitos;200704
+Piura;Talara;Los Organos;200705
+Piura;Talara;Mancora;200706
+Piura;Talara;Pariñas;200701
+Puno;Azangaro;Achaya;210202
+Puno;Azangaro;Arapa;210203
+Puno;Azangaro;Asillo;210204
+Puno;Azangaro;Azangaro;210201
+Puno;Azangaro;Caminaca;210205
+Puno;Azangaro;Chupa;210206
+Puno;Azangaro;Jose Domingo Choquehuanca;210207
+Puno;Azangaro;Muñani;210208
+Puno;Azangaro;Potoni;210209
+Puno;Azangaro;Saman;210210
+Puno;Azangaro;San Anton;210211
+Puno;Azangaro;San Jose;210212
+Puno;Azangaro;San Juan de Salinas;210213
+Puno;Azangaro;Santiago de Pupuja;210214
+Puno;Azangaro;Tirapata;210215
+Puno;Carabaya;Ajoyani;210302
+Puno;Carabaya;Ayapata;210303
+Puno;Carabaya;Coasa;210304
+Puno;Carabaya;Corani;210305
+Puno;Carabaya;Crucero;210306
+Puno;Carabaya;Ituata;210307
+Puno;Carabaya;Macusani;210301
+Puno;Carabaya;Ollachea;210308
+Puno;Carabaya;San Gaban;210309
+Puno;Carabaya;Usicayos;210310
+Puno;Chucuito;Desaguadero;210402
+Puno;Chucuito;Huacullani;210403
+Puno;Chucuito;Juli;210401
+Puno;Chucuito;Kelluyo;210404
+Puno;Chucuito;Pisacoma;210405
+Puno;Chucuito;Pomata;210406
+Puno;Chucuito;Zepita;210407
+Puno;El Collao;Capazo;210502
+Puno;El Collao;Conduriri;210505
+Puno;El Collao;Ilave;210501
+Puno;El Collao;Pilcuyo;210503
+Puno;El Collao;Santa Rosa;210504
+Puno;Huancane;Cojata;210602
+Puno;Huancane;Huancane;210601
+Puno;Huancane;Huatasani;210603
+Puno;Huancane;Inchupalla;210604
+Puno;Huancane;Pusi;210605
+Puno;Huancane;Rosaspata;210606
+Puno;Huancane;Taraco;210607
+Puno;Huancane;Vilque Chico;210608
+Puno;Lampa;Cabanilla;210702
+Puno;Lampa;Calapuja;210703
+Puno;Lampa;Lampa;210701
+Puno;Lampa;Nicasio;210704
+Puno;Lampa;Ocuviri;210705
+Puno;Lampa;Palca;210706
+Puno;Lampa;Paratia;210707
+Puno;Lampa;Pucara;210708
+Puno;Lampa;Santa Lucia;210709
+Puno;Lampa;Vilavila;210710
+Puno;Melgar;Antauta;210802
+Puno;Melgar;Ayaviri;210801
+Puno;Melgar;Cupi;210803
+Puno;Melgar;Llalli;210804
+Puno;Melgar;Macari;210805
+Puno;Melgar;Nuñoa;210806
+Puno;Melgar;Orurillo;210807
+Puno;Melgar;Santa Rosa;210808
+Puno;Melgar;Umachiri;210809
+Puno;Moho;Conima;210902
+Puno;Moho;Huayrapata;210903
+Puno;Moho;Moho;210901
+Puno;Moho;Tilali;210904
+Puno;Puno;Acora;210102
+Puno;Puno;Amantani;210103
+Puno;Puno;Atuncolla;210104
+Puno;Puno;Capachica;210105
+Puno;Puno;Chucuito;210106
+Puno;Puno;Coata;210107
+Puno;Puno;Huata;210108
+Puno;Puno;Mañazo;210109
+Puno;Puno;Paucarcolla;210110
+Puno;Puno;Pichacani;210111
+Puno;Puno;Plateria;210112
+Puno;Puno;Puno;210101
+Puno;Puno;San Antonio;210113
+Puno;Puno;Tiquillaca;210114
+Puno;Puno;Vilque;210115
+Puno;San Antonio de Putin;Ananea;211002
+Puno;San Antonio de Putin;Pedro Vilca Apaza;211003
+Puno;San Antonio de Putin;Putina;211001
+Puno;San Antonio de Putin;Quilcapuncu;211004
+Puno;San Antonio de Putin;Sina;211005
+Puno;San Roman;Cabana;211102
+Puno;San Roman;Cabanillas;211103
+Puno;San Roman;Caracoto;211104
+Puno;San Roman;Juliaca;211101
+Puno;San Roman;San Miguel;211105
+Puno;Sandia;Alto Inambari;211209
+Puno;Sandia;Cuyocuyo;211202
+Puno;Sandia;Limbani;211203
+Puno;Sandia;Patambuco;211204
+Puno;Sandia;Phara;211205
+Puno;Sandia;Quiaca;211206
+Puno;Sandia;San Juan del Oro;211207
+Puno;Sandia;San Pedro de Putina Punco;211210
+Puno;Sandia;Sandia;211201
+Puno;Sandia;Yanahuaya;211208
+Puno;Yunguyo;Anapia;211302
+Puno;Yunguyo;Copani;211303
+Puno;Yunguyo;Cuturapi;211304
+Puno;Yunguyo;Ollaraya;211305
+Puno;Yunguyo;Tinicachi;211306
+Puno;Yunguyo;Unicachi;211307
+Puno;Yunguyo;Yunguyo;211301
+San Martin;Bellavista;Alto Biavo;220202
+San Martin;Bellavista;Bajo Biavo;220203
+San Martin;Bellavista;Bellavista;220201
+San Martin;Bellavista;Huallaga;220204
+San Martin;Bellavista;San Pablo;220205
+San Martin;Bellavista;San Rafael;220206
+San Martin;El Dorado;Agua Blanca;220302
+San Martin;El Dorado;San Jose de Sisa;220301
+San Martin;El Dorado;San Martin;220303
+San Martin;El Dorado;Santa Rosa;220304
+San Martin;El Dorado;Shatoja;220305
+San Martin;Huallaga;Alto Saposoa;220402
+San Martin;Huallaga;El Eslabon;220403
+San Martin;Huallaga;Piscoyacu;220404
+San Martin;Huallaga;Sacanche;220405
+San Martin;Huallaga;Saposoa;220401
+San Martin;Huallaga;Tingo de Saposoa;220406
+San Martin;Lamas;Alonso de Alvarado;220502
+San Martin;Lamas;Barranquita;220503
+San Martin;Lamas;Caynarachi;220504
+San Martin;Lamas;Cuñumbuqui;220505
+San Martin;Lamas;Lamas;220501
+San Martin;Lamas;Pinto Recodo;220506
+San Martin;Lamas;Rumisapa;220507
+San Martin;Lamas;San Roque de Cumbaza;220508
+San Martin;Lamas;Shanao;220509
+San Martin;Lamas;Tabalosos;220510
+San Martin;Lamas;Zapatero;220511
+San Martin;Mariscal Caceres;Campanilla;220602
+San Martin;Mariscal Caceres;Huicungo;220603
+San Martin;Mariscal Caceres;Juanjui;220601
+San Martin;Mariscal Caceres;Pachiza;220604
+San Martin;Mariscal Caceres;Pajarillo;220605
+San Martin;Moyobamba;Calzada;220102
+San Martin;Moyobamba;Habana;220103
+San Martin;Moyobamba;Jepelacio;220104
+San Martin;Moyobamba;Moyobamba;220101
+San Martin;Moyobamba;Soritor;220105
+San Martin;Moyobamba;Yantalo;220106
+San Martin;Picota;Buenos Aires;220702
+San Martin;Picota;Caspisapa;220703
+San Martin;Picota;Picota;220701
+San Martin;Picota;Pilluana;220704
+San Martin;Picota;Pucacaca;220705
+San Martin;Picota;San Cristobal;220706
+San Martin;Picota;San Hilarion;220707
+San Martin;Picota;Shamboyacu;220708
+San Martin;Picota;Tingo de Ponasa;220709
+San Martin;Picota;Tres Unidos;220710
+San Martin;Rioja;Awajun;220802
+San Martin;Rioja;Elias Soplin Vargas;220803
+San Martin;Rioja;Nueva Cajamarca;220804
+San Martin;Rioja;Pardo Miguel;220805
+San Martin;Rioja;Posic;220806
+San Martin;Rioja;Rioja;220801
+San Martin;Rioja;San Fernando;220807
+San Martin;Rioja;Yorongos;220808
+San Martin;Rioja;Yuracyacu;220809
+San Martin;San Martin;Alberto Leveau;220902
+San Martin;San Martin;Cacatachi;220903
+San Martin;San Martin;Chazuta;220904
+San Martin;San Martin;Chipurana;220905
+San Martin;San Martin;El Porvenir;220906
+San Martin;San Martin;Huimbayoc;220907
+San Martin;San Martin;Juan Guerra;220908
+San Martin;San Martin;La Banda de Shilcayo;220909
+San Martin;San Martin;Morales;220910
+San Martin;San Martin;Papaplaya;220911
+San Martin;San Martin;San Antonio;220912
+San Martin;San Martin;Sauce;220913
+San Martin;San Martin;Shapaja;220914
+San Martin;San Martin;Tarapoto;220901
+San Martin;Tocache;Nuevo Progreso;221002
+San Martin;Tocache;Polvora;221003
+San Martin;Tocache;Shunte;221004
+San Martin;Tocache;Tocache;221001
+San Martin;Tocache;Uchiza;221005
+Tacna;Candarave;Cairani;230202
+Tacna;Candarave;Camilaca;230203
+Tacna;Candarave;Candarave;230201
+Tacna;Candarave;Curibaya;230204
+Tacna;Candarave;Huanuara;230205
+Tacna;Candarave;Quilahuani;230206
+Tacna;Jorge Basadre;Ilabaya;230302
+Tacna;Jorge Basadre;Ite;230303
+Tacna;Jorge Basadre;Locumba;230301
+Tacna;Tacna;Alto de La Alianza;230102
+Tacna;Tacna;Calana;230103
+Tacna;Tacna;Ciudad Nueva;230104
+Tacna;Tacna;Coronel Gregorio Albarracin Lanchipa;230110
+Tacna;Tacna;Inclan;230105
+Tacna;Tacna;La Yarada-Los Palos;230111
+Tacna;Tacna;Pachia;230106
+Tacna;Tacna;Palca;230107
+Tacna;Tacna;Pocollay;230108
+Tacna;Tacna;Sama;230109
+Tacna;Tacna;Tacna;230101
+Tacna;Tarata;Estique;230403
+Tacna;Tarata;Estique-Pampa;230404
+Tacna;Tarata;Heroes Albarracin;230402
+Tacna;Tarata;Sitajara;230405
+Tacna;Tarata;Susapaya;230406
+Tacna;Tarata;Tarata;230401
+Tacna;Tarata;Tarucachi;230407
+Tacna;Tarata;Ticaco;230408
+Tumbes;Contralmirante Villa;Canoas de Punta Sal;240203
+Tumbes;Contralmirante Villa;Casitas;240202
+Tumbes;Contralmirante Villa;Zorritos;240201
+Tumbes;Tumbes;Corrales;240102
+Tumbes;Tumbes;La Cruz;240103
+Tumbes;Tumbes;Pampas de Hospital;240104
+Tumbes;Tumbes;San Jacinto;240105
+Tumbes;Tumbes;San Juan de La Virgen;240106
+Tumbes;Tumbes;Tumbes;240101
+Tumbes;Zarumilla;Aguas Verdes;240302
+Tumbes;Zarumilla;Matapalo;240303
+Tumbes;Zarumilla;Papayal;240304
+Tumbes;Zarumilla;Zarumilla;240301
+Ucayali;Atalaya;Raymondi;250201
+Ucayali;Atalaya;Sepahua;250202
+Ucayali;Atalaya;Tahuania;250203
+Ucayali;Atalaya;Yurua;250204
+Ucayali;Coronel Portillo;Calleria;250101
+Ucayali;Coronel Portillo;Campoverde;250102
+Ucayali;Coronel Portillo;Iparia;250103
+Ucayali;Coronel Portillo;Manantay;250107
+Ucayali;Coronel Portillo;Masisea;250104
+Ucayali;Coronel Portillo;Nueva Requena;250106
+Ucayali;Coronel Portillo;Yarinacocha;250105
+Ucayali;Padre Abad;Alexander von Humboldt;250305
+Ucayali;Padre Abad;Curimana;250303
+Ucayali;Padre Abad;Irazola;250302
+Ucayali;Padre Abad;Neshuya;250304
+Ucayali;Padre Abad;Padre Abad;250301
+Ucayali;Purus;Purus;250401

@@ -1,0 +1,956 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BEF95173-6B36-4441-9ABB-4D2C301F6987}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>RestCsharp</RootNamespace>
+    <AssemblyName>Bumam</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>iconobuman.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>bumam.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ionic.Zip, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c, processorArchitecture=MSIL">
+      <HintPath>packages\Ionic.Zip.1.9.1.8\lib\Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.IO.Compression.ZipFile, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\System.IO.Compression.ZipFile.4.3.0\lib\net46\System.IO.Compression.ZipFile.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.Reporting, Version=13.0.19.116, Culture=neutral, PublicKeyToken=a9d7983dfcc261be" />
+    <Reference Include="Telerik.ReportViewer.WinForms, Version=13.0.19.116, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL" />
+    <Reference Include="UIDC">
+      <HintPath>.\UIDC.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connected Services\servicioFacturacion2021\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Datos\CONEXIONMAESTRA.cs" />
+    <Compile Include="Datos\Dareasimpresion.cs" />
+    <Compile Include="Datos\Dcaja.cs" />
+    <Compile Include="Datos\Dclientes.cs" />
+    <Compile Include="Datos\DcodigosProdsunat.cs" />
+    <Compile Include="Datos\Dcodigosubigeo.cs" />
+    <Compile Include="Datos\Dcolores.cs" />
+    <Compile Include="Datos\Dcombaja.cs" />
+    <Compile Include="Datos\Dconceptos.cs" />
+    <Compile Include="Datos\Dconexion.cs" />
+    <Compile Include="Datos\Ddetalleventas.cs" />
+    <Compile Include="Datos\Dempresa.cs" />
+    <Compile Include="Datos\Dgastos.cs" />
+    <Compile Include="Datos\Dgrupos.cs" />
+    <Compile Include="Datos\Dimpresoras.cs" />
+    <Compile Include="Datos\Dingresos.cs" />
+    <Compile Include="Datos\DiniciosSesion.cs" />
+    <Compile Include="Datos\Dlicencias.cs" />
+    <Compile Include="Datos\Dmesas.cs" />
+    <Compile Include="Datos\Dmodulos.cs" />
+    <Compile Include="Datos\DmovimientoCaja.cs" />
+    <Compile Include="Datos\Dnotascredito.cs" />
+    <Compile Include="Datos\Dnotasdebito.cs" />
+    <Compile Include="Datos\Dpermisos.cs" />
+    <Compile Include="Datos\Dproductos.cs" />
+    <Compile Include="Datos\DpropiedadesMesas.cs" />
+    <Compile Include="Datos\Dsalon.cs" />
+    <Compile Include="Datos\Dserealizacion.cs" />
+    <Compile Include="Datos\Dsesion.cs" />
+    <Compile Include="Datos\Dticketventa.cs" />
+    <Compile Include="Datos\Dtiponotascredito.cs" />
+    <Compile Include="Datos\DunidadM.cs" />
+    <Compile Include="Datos\Dusuarios.cs" />
+    <Compile Include="Datos\Dventas.cs" />
+    <Compile Include="Logica\Bases.cs" />
+    <Compile Include="Logica\Lareasimpresion.cs" />
+    <Compile Include="Logica\Lcaja.cs" />
+    <Compile Include="Logica\Lcolores.cs" />
+    <Compile Include="Logica\Lconceptos.cs" />
+    <Compile Include="Logica\Lgastosvarios.cs" />
+    <Compile Include="Logica\Lgruposprodc.cs" />
+    <Compile Include="Logica\Limpresoras.cs" />
+    <Compile Include="Logica\Lingresos.cs" />
+    <Compile Include="Logica\LiniciosSesion.cs" />
+    <Compile Include="Logica\Lmarcan.cs" />
+    <Compile Include="Logica\Lmesas.cs" />
+    <Compile Include="Logica\Lmodulos.cs" />
+    <Compile Include="Logica\LmovientosCaja.cs" />
+    <Compile Include="Logica\Lpermisos.cs" />
+    <Compile Include="Logica\LpropiedadesMesas.cs" />
+    <Compile Include="Logica\Lsalon.cs" />
+    <Compile Include="Logica\Lserializacion.cs" />
+    <Compile Include="Logica\Lsesion.cs" />
+    <Compile Include="Logica\Lticket.cs" />
+    <Compile Include="Logica\Lusuarios.cs" />
+    <Compile Include="Presentacion\AsistenteInstalacion\EleccionServidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\AsistenteInstalacion\EleccionServidor.Designer.cs">
+      <DependentUpon>EleccionServidor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\AsistenteInstalacion\Empresaregistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\AsistenteInstalacion\Empresaregistro.Designer.cs">
+      <DependentUpon>Empresaregistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\AsistenteInstalacion\InstalarServidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\AsistenteInstalacion\InstalarServidor.Designer.cs">
+      <DependentUpon>InstalarServidor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\AsistenteInstalacion\UsuarioPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\AsistenteInstalacion\UsuarioPrincipal.Designer.cs">
+      <DependentUpon>UsuarioPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Caja\AperturaCaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Caja\AperturaCaja.Designer.cs">
+      <DependentUpon>AperturaCaja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Caja\CierreCaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Caja\CierreCaja.Designer.cs">
+      <DependentUpon>CierreCaja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Caja\Listagastosingresos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Caja\Listagastosingresos.Designer.cs">
+      <DependentUpon>Listagastosingresos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Cocina\PantallaCocina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Cocina\PantallaCocina.Designer.cs">
+      <DependentUpon>PantallaCocina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\ConexionManual\CONEXION_MANUAL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\ConexionManual\CONEXION_MANUAL.Designer.cs">
+      <DependentUpon>CONEXION_MANUAL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logica\Desencryptacion.cs" />
+    <Compile Include="Logica\Encryptacion.cs" />
+    <Compile Include="Presentacion\Conexionremota\Asistenteconexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Conexionremota\Asistenteconexion.Designer.cs">
+      <DependentUpon>Asistenteconexion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Configuraciones\Clientesconfig.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Configuraciones\Clientesconfig.Designer.cs">
+      <DependentUpon>Clientesconfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Configuraciones\Menu_de_configuraciones.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Configuraciones\Menu_de_configuraciones.Designer.cs">
+      <DependentUpon>Menu_de_configuraciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Copiasbd\GenerarAut.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Copiasbd\GenerarAut.Designer.cs">
+      <DependentUpon>GenerarAut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Diseñocomp\Diseño.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Diseñocomp\Diseño.Designer.cs">
+      <DependentUpon>Diseño.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Empresaconfig\Eempresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Empresaconfig\Eempresa.Designer.cs">
+      <DependentUpon>Eempresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\GeneradorQR\GenerarQr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\GeneradorQR\GenerarQr.Designer.cs">
+      <DependentUpon>GenerarQr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Impresoras\ImpresorasConf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Impresoras\ImpresorasConf.Designer.cs">
+      <DependentUpon>ImpresorasConf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Licencia\Licencias.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Licencia\Licencias.Designer.cs">
+      <DependentUpon>Licencias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Login\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Login\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Mesas_salones\Agregar_mesa_ok.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Mesas_salones\Agregar_mesa_ok.Designer.cs">
+      <DependentUpon>Agregar_mesa_ok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Mesas_salones\Configurar_mesas_ok.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Mesas_salones\Configurar_mesas_ok.Designer.cs">
+      <DependentUpon>Configurar_mesas_ok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Mesas_salones\Salones.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Mesas_salones\Salones.Designer.cs">
+      <DependentUpon>Salones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\PRODUCTOS\Grupos_De_productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\PRODUCTOS\Grupos_De_productos.Designer.cs">
+      <DependentUpon>Grupos_De_productos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\PRODUCTOS\Productos_rest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\PRODUCTOS\Productos_rest.Designer.cs">
+      <DependentUpon>Productos_rest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\PRODUCTOS\Registro_de_productos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\PRODUCTOS\Registro_de_productos.Designer.cs">
+      <DependentUpon>Registro_de_productos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\PUNTO DE VENTA\Agregarcliente.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\PUNTO DE VENTA\Agregarcliente.Designer.cs">
+      <DependentUpon>Agregarcliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\PUNTO DE VENTA\Buscadorproductos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\PUNTO DE VENTA\Buscadorproductos.Designer.cs">
+      <DependentUpon>Buscadorproductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\PUNTO DE VENTA\CantPersonas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\PUNTO DE VENTA\CantPersonas.Designer.cs">
+      <DependentUpon>CantPersonas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\PUNTO DE VENTA\Cobrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\PUNTO DE VENTA\Cobrar.Designer.cs">
+      <DependentUpon>Cobrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\PUNTO DE VENTA\MostradorProductos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\PUNTO DE VENTA\MostradorProductos.Designer.cs">
+      <DependentUpon>MostradorProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\PUNTO DE VENTA\NombreLlevar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\PUNTO DE VENTA\NombreLlevar.Designer.cs">
+      <DependentUpon>NombreLlevar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\PUNTO DE VENTA\Notas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\PUNTO DE VENTA\Notas.Designer.cs">
+      <DependentUpon>Notas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\PUNTO DE VENTA\Punto_de_venta.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\PUNTO DE VENTA\Punto_de_venta.Designer.cs">
+      <DependentUpon>Punto_de_venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\PUNTO DE VENTA\VisorDecuentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\PUNTO DE VENTA\VisorDecuentas.Designer.cs">
+      <DependentUpon>VisorDecuentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\PUNTO DE VENTA\Visor_de_mesas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\PUNTO DE VENTA\Visor_de_mesas.Designer.cs">
+      <DependentUpon>Visor_de_mesas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Reportes\Menureportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Reportes\Menureportes.Designer.cs">
+      <DependentUpon>Menureportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Reportes\Pruebaimpresora.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Reportes\Pruebaimpresora.Designer.cs">
+      <DependentUpon>Pruebaimpresora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Reportes\Rcierrecaja.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Reportes\Rcierrecaja.Designer.cs">
+      <DependentUpon>Rcierrecaja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Reportes\Rcodigosqr.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Reportes\Rcodigosqr.Designer.cs">
+      <DependentUpon>Rcodigosqr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Reportes\RcomprobVenta.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Reportes\RcomprobVenta.Designer.cs">
+      <DependentUpon>RcomprobVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Reportes\RpedidonotaInd.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Reportes\RpedidonotaInd.Designer.cs">
+      <DependentUpon>RpedidonotaInd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Reportes\Rpedidos.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Reportes\Rpedidos.Designer.cs">
+      <DependentUpon>Rpedidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Reportes\Rprecuenta.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Reportes\Rprecuenta.Designer.cs">
+      <DependentUpon>Rprecuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Reportes\Rproductosmasv.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Reportes\Rproductosmasv.Designer.cs">
+      <DependentUpon>Rproductosmasv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Reportes\Rresumenventas.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Reportes\Rresumenventas.Designer.cs">
+      <DependentUpon>Rresumenventas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Serializacion\SerialziacionComp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Serializacion\SerialziacionComp.Designer.cs">
+      <DependentUpon>SerialziacionComp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Usuarios\UsuariosOk.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Usuarios\UsuariosOk.Designer.cs">
+      <DependentUpon>UsuariosOk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sunat\Bajas\Comunicacionbaja.cs" />
+    <Compile Include="Sunat\EmitirComprobante.cs" />
+    <Compile Include="Sunat\Envios.cs" />
+    <Compile Include="Sunat\Formatos.cs" />
+    <Compile Include="Sunat\Logica\Lclientes.cs" />
+    <Compile Include="Sunat\Logica\LcodigosSunat.cs" />
+    <Compile Include="Sunat\Logica\Lcodigosubigeos.cs" />
+    <Compile Include="Sunat\Logica\Lcombaja.cs" />
+    <Compile Include="Sunat\Logica\Ldetalleventas.cs" />
+    <Compile Include="Sunat\Logica\Lempresa.cs" />
+    <Compile Include="Sunat\Logica\Lnotacredito.cs" />
+    <Compile Include="Sunat\Logica\Lnotasdebito.cs" />
+    <Compile Include="Sunat\Logica\Lproductos.cs" />
+    <Compile Include="Sunat\Logica\Lresumendiario.cs" />
+    <Compile Include="Sunat\Logica\Lserializacion.cs" />
+    <Compile Include="Sunat\Logica\Lticket.cs" />
+    <Compile Include="Sunat\Logica\Ltiponotacredito.cs" />
+    <Compile Include="Sunat\Logica\LunidadM.cs" />
+    <Compile Include="Sunat\Logica\Lventas.cs" />
+    <Compile Include="Sunat\NotaCredito.cs" />
+    <Compile Include="Sunat\NotaDebito.cs" />
+    <Compile Include="Sunat\Pruebassunat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sunat\Pruebassunat.Designer.cs">
+      <DependentUpon>Pruebassunat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sunat\Resumenes\ResumenDiario.cs" />
+    <Compile Include="Logica\total_en_letras.cs" />
+    <Compile Include="Sunat\SunatForms\AgregarComBaja.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sunat\SunatForms\AgregarComBaja.Designer.cs">
+      <DependentUpon>AgregarComBaja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sunat\SunatForms\AgregarNdebito.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sunat\SunatForms\AgregarNdebito.Designer.cs">
+      <DependentUpon>AgregarNdebito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sunat\SunatForms\AgregarNotacredito.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sunat\SunatForms\AgregarNotacredito.Designer.cs">
+      <DependentUpon>AgregarNotacredito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sunat\SunatForms\ComBaja.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sunat\SunatForms\ComBaja.Designer.cs">
+      <DependentUpon>ComBaja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sunat\SunatForms\Sboletas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sunat\SunatForms\Sboletas.Designer.cs">
+      <DependentUpon>Sboletas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sunat\SunatForms\Sfacturas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sunat\SunatForms\Sfacturas.Designer.cs">
+      <DependentUpon>Sfacturas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sunat\SunatForms\Smenusunat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sunat\SunatForms\Smenusunat.Designer.cs">
+      <DependentUpon>Smenusunat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sunat\SunatForms\Snotascredito.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sunat\SunatForms\Snotascredito.Designer.cs">
+      <DependentUpon>Snotascredito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sunat\SunatForms\Snotasdebito.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sunat\SunatForms\Snotasdebito.Designer.cs">
+      <DependentUpon>Snotasdebito.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Presentacion\AsistenteInstalacion\EleccionServidor.resx">
+      <DependentUpon>EleccionServidor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\AsistenteInstalacion\Empresaregistro.resx">
+      <DependentUpon>Empresaregistro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\AsistenteInstalacion\InstalarServidor.resx">
+      <DependentUpon>InstalarServidor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\AsistenteInstalacion\UsuarioPrincipal.resx">
+      <DependentUpon>UsuarioPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Caja\AperturaCaja.resx">
+      <DependentUpon>AperturaCaja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Caja\CierreCaja.resx">
+      <DependentUpon>CierreCaja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Caja\Listagastosingresos.resx">
+      <DependentUpon>Listagastosingresos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Cocina\PantallaCocina.resx">
+      <DependentUpon>PantallaCocina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\ConexionManual\CONEXION_MANUAL.resx">
+      <DependentUpon>CONEXION_MANUAL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Conexionremota\Asistenteconexion.resx">
+      <DependentUpon>Asistenteconexion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Configuraciones\Clientesconfig.resx">
+      <DependentUpon>Clientesconfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Configuraciones\Menu_de_configuraciones.resx">
+      <DependentUpon>Menu_de_configuraciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Copiasbd\GenerarAut.resx">
+      <DependentUpon>GenerarAut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Diseñocomp\Diseño.resx">
+      <DependentUpon>Diseño.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Empresaconfig\Eempresa.resx">
+      <DependentUpon>Eempresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\GeneradorQR\GenerarQr.resx">
+      <DependentUpon>GenerarQr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Impresoras\ImpresorasConf.resx">
+      <DependentUpon>ImpresorasConf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Licencia\Licencias.resx">
+      <DependentUpon>Licencias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Login\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Mesas_salones\Agregar_mesa_ok.resx">
+      <DependentUpon>Agregar_mesa_ok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Mesas_salones\Configurar_mesas_ok.resx">
+      <DependentUpon>Configurar_mesas_ok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Mesas_salones\Salones.resx">
+      <DependentUpon>Salones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\PRODUCTOS\Grupos_De_productos.resx">
+      <DependentUpon>Grupos_De_productos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\PRODUCTOS\Productos_rest.resx">
+      <DependentUpon>Productos_rest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\PRODUCTOS\Registro_de_productos.resx">
+      <DependentUpon>Registro_de_productos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\PUNTO DE VENTA\Agregarcliente.resx">
+      <DependentUpon>Agregarcliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\PUNTO DE VENTA\Buscadorproductos.resx">
+      <DependentUpon>Buscadorproductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\PUNTO DE VENTA\CantPersonas.resx">
+      <DependentUpon>CantPersonas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\PUNTO DE VENTA\Cobrar.resx">
+      <DependentUpon>Cobrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\PUNTO DE VENTA\MostradorProductos.resx">
+      <DependentUpon>MostradorProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\PUNTO DE VENTA\NombreLlevar.resx">
+      <DependentUpon>NombreLlevar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\PUNTO DE VENTA\Notas.resx">
+      <DependentUpon>Notas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\PUNTO DE VENTA\Punto_de_venta.resx">
+      <DependentUpon>Punto_de_venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\PUNTO DE VENTA\VisorDecuentas.resx">
+      <DependentUpon>VisorDecuentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\PUNTO DE VENTA\Visor_de_mesas.resx">
+      <DependentUpon>Visor_de_mesas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Reportes\Menureportes.resx">
+      <DependentUpon>Menureportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Reportes\Pruebaimpresora.resx">
+      <DependentUpon>Pruebaimpresora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Reportes\Rcierrecaja.resx">
+      <DependentUpon>Rcierrecaja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Reportes\Rcodigosqr.resx">
+      <DependentUpon>Rcodigosqr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Reportes\RcomprobVenta.resx">
+      <DependentUpon>RcomprobVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Reportes\RpedidonotaInd.resx">
+      <DependentUpon>RpedidonotaInd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Reportes\Rpedidos.resx">
+      <DependentUpon>Rpedidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Reportes\Rprecuenta.resx">
+      <DependentUpon>Rprecuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Reportes\Rproductosmasv.resx">
+      <DependentUpon>Rproductosmasv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Reportes\Rresumenventas.resx">
+      <DependentUpon>Rresumenventas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Serializacion\SerialziacionComp.resx">
+      <DependentUpon>SerialziacionComp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Usuarios\UsuariosOk.resx">
+      <DependentUpon>UsuariosOk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Sunat\Pruebassunat.resx">
+      <DependentUpon>Pruebassunat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sunat\SunatForms\AgregarComBaja.resx">
+      <DependentUpon>AgregarComBaja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sunat\SunatForms\AgregarNdebito.resx">
+      <DependentUpon>AgregarNdebito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sunat\SunatForms\AgregarNotacredito.resx">
+      <DependentUpon>AgregarNotacredito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sunat\SunatForms\ComBaja.resx">
+      <DependentUpon>ComBaja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sunat\SunatForms\Sboletas.resx">
+      <DependentUpon>Sboletas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sunat\SunatForms\Sfacturas.resx">
+      <DependentUpon>Sfacturas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sunat\SunatForms\Smenusunat.resx">
+      <DependentUpon>Smenusunat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sunat\SunatForms\Snotascredito.resx">
+      <DependentUpon>Snotascredito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sunat\SunatForms\Snotasdebito.resx">
+      <DependentUpon>Snotasdebito.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="bumam.manifest" />
+    <None Include="Connected Services\servicioFacturacion2021\billService.wsdl" />
+    <None Include="Connected Services\servicioFacturacion2021\billService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\servicioFacturacion2021\billService1.wsdl" />
+    <None Include="Connected Services\servicioFacturacion2021\billService2.wsdl" />
+    <None Include="Connected Services\servicioFacturacion2021\RestCsharp.servicioFacturacion2021.getStatusResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\servicioFacturacion2021\RestCsharp.servicioFacturacion2021.sendBillResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\servicioFacturacion2021\RestCsharp.servicioFacturacion2021.sendPackResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\servicioFacturacion2021\RestCsharp.servicioFacturacion2021.sendSummaryResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\servicioFacturacion2021\RestCsharp.servicioFacturacion2021.statusResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accesorio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\advertencia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\amarillo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\archivos-adjuntos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\azul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton-de-stop-de-un-reproductor-de-video.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Buman.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Candy-Candy-candy-candy-9421203-572-508.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carrito-de-tienda-online.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerveza.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\COBROSSSS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\COBRSSSS.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\config_redentor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\correcto-simbolo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\efectivo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\etiqueta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fecha_derecha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fecha_izquierda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gogeta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\goku.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gokuqueda.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\homero.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_BLACK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoEmpresa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\megafono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu_BLACK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu_redentor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menuCajas_claro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mesa_vacia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monedas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monster.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\naranja.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\naruto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notificacion_BLACK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notificacion_BLACK2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notificacion_redentor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pacman.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PanelConfiguracion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pasar-al-siguiente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rojo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rosa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sakura.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trofeo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\venta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\verde.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lupa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\animal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\extraterrestre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sonreir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fuego.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fuego %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nuclear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ar-camera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foto %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telegram %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\negro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuchilleria.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quitar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cocin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flechablanca.png" />
+    <None Include="Resources\satisfaccion.png" />
+    <None Include="Resources\insatisfaccion.png" />
+    <None Include="Resources\feliz.png" />
+    <None Include="Resources\dia.png" />
+    <None Include="Resources\Caja_activa.png" />
+    <None Include="Resources\sunat.png" />
+    <None Include="Connected Services\servicioFacturacion2021\configuration91.svcinfo" />
+    <None Include="Connected Services\servicioFacturacion2021\configuration.svcinfo" />
+    <None Include="Connected Services\servicioFacturacion2021\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="iconobuman.ico" />
+    <None Include="Resources\buscar1.png" />
+    <None Include="Resources\enlace.png" />
+    <None Include="Resources\ipimagen.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\servicioFacturacion2021\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
