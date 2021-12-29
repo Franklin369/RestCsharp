@@ -16,7 +16,7 @@
 [- Grupo versión 3](https://t.me/appcliente "- Grupo versión 3")
 #### SÍGUENOS EN NUESTRAS REDES SOCIALES
 > [YouTube](https://www.youtube.com/c/Codigo369 "YouTube")
-[Facebook](https://www.faceboo "Facebook")
+[Facebook](https://www.facebook.com/codigo.369.official "Facebook")
 [Instagram](https://www.instagram.com/codigo369/ "Instagram")
 
 ###### PANTALLAZOS DEL PROYECTO
